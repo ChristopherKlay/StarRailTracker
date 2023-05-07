@@ -119,5 +119,675 @@
             "description": "Possess 4 Light Cone at Lv. 80",
             "comment": "Unlocked at EQ5 (TL60)"
         }
+    },
+    "The Rail Unto the Stars": {
+        "22": {
+            "title": "A Professional Onlooker",
+            "version": 1.0,
+            "description": "When the Wind-Watcher Waches You..",
+            "comment": "Find Qingque, who is \"working hard\" at playing games..."
+        },
+        "23": {
+            "title": "Draconic Opulence",
+            "version": 1.0,
+            "description": "Witness Dan Shu's story",
+            "comment": "Discover Dan Shu's true identity..."
+        },
+        "24": {
+            "title": "Everwinter Night",
+            "version": 1.0,
+            "description": "After enduring the snow storm...",
+            "comment": "You have arrived at the city of Belobog."
+        },
+        "25": {
+            "title": "Half the Wizard of Oz",
+            "version": 1.0,
+            "description": "Defeat the tin man and the little girl",
+            "comment": "Svarog and Clara became your friends!"
+        },
+        "26": {
+            "title": "Lost World",
+            "version": 1.0,
+            "description": "Discover the secret beneath Jarilo-VI",
+            "comment": "There are people living underground..."
+        },
+        "27": {
+            "title": "My Heart Lies With the Stars",
+            "version": 1.0,
+            "description": "Launch a journey into the vast Galaxy",
+            "comment": "Congratulations! You have boarded the Astral Express!"
+        },
+        "28": {
+            "title": "Omniscia Spares None",
+            "version": 1.0,
+            "description": "What Goes Around Comes Around",
+            "comment": "Successfully capture the Stellaron Hunter Kafka."
+        },
+        "29": {
+            "title": "Prophets Do Not Prophesize",
+            "version": 1.0,
+            "description": "Witness the mystery of the Divination Commission's matrix",
+            "comment": "Interrogate Kafka with the Matrix of Prescience..."
+        },
+        "30": {
+            "title": "Sauntering Fox",
+            "version": 1.0,
+            "description": "Diplomacy is but a trade of opinions...",
+            "comment": "Confer with the leader(s) of the Xianzhou Luofu."
+        },
+        "31": {
+            "title": "Slayer of a Very \"Deer\" Friend",
+            "version": 1.0,
+            "description": "Try to walk on the Path of the Hunt...",
+            "comment": "Help Xianzhou to defeat the Abomination of Abundance, \"Ebon Deer\""
+        },
+        "32": {
+            "title": "The Deer Hunter",
+            "version": 1.0,
+            "description": "The Furnace Endured, the Antlers Obscured",
+            "comment": "Save the Artisanship Commission from the crisis."
+        },
+        "33": {
+            "title": "Winter Is Leaving",
+            "version": 1.0,
+            "description": "Make Belobog Great Again, Again",
+            "comment": "Defeat Supreme Guardian Cocolia..."
+        }
+    },
+    "Eager for Battle": {
+        "34": {
+            "title": "A Casualty of Armors",
+            "version": 1.0,
+            "description": "Receive a total of 10,000 DMG on 1 character in a single battle"
+        },
+        "35": {
+            "title": "A Song of Vice and Dire",
+            "version": 1.0,
+            "description": "Inflict both Burn and Freeze upon 1 enemy at the same time",
+            "comment": "Easier to achieve in Simulated Universe with blessings."
+        },
+        "36": {
+            "title": "A Thousand Cuts...",
+            "version": 1.0,
+            "description": "Defeat 3 enemies using DoT in a single battle",
+            "comment": "Easier to achieve in Simulated Universe with Path of Nihility."
+        },
+        "37": {
+            "title": "Accidental Amnesia",
+            "version": 1.0,
+            "description": "Clear Decaying Shadow's Gauge Recollection and cause its ability, Liberation of the Golden Age, to fail",
+            "comment": "Can be found in Backwater Pass (Jarilo-VI), Shape of Mirage (Stagnant Shadow)."
+        },
+        "38": {
+            "title": "Achilles' Horse",
+            "version": 1.0,
+            "description": "Defeat Voidranger: Trampler when it's aiming at an ally",
+            "comment": "Can be found in Simulated Universe World 5."
+        },
+        "39": {
+            "title": "Add Insult to Injury",
+            "version": 1.0,
+            "description": "Deal a total of 20,000 DMG to enemies inflicted with Weakness Break in a single battle",
+            "comment": "Easier to achieve in Simulated Universe with weakness break blessings."
+        },
+        "40": {
+            "title": "All Men Must Die",
+            "version": 1.0,
+            "description": "Receive a killing blow from enemies when at 100% HP",
+            "comment": "Bring one weak unleveled unit against a tough enemy."
+        },
+        "41": {
+            "title": "Always Come Prepared",
+            "version": 1.0,
+            "description": "A character has 5 or more buffs at the beginning of a turn",
+            "comment": "Easier to achieve in Simulated Universe."
+        },
+        "42": {
+            "title": "Annihilation",
+            "version": 1.0,
+            "description": "Deal equal to or more than 150,000 DMG in a single attack",
+            "comment": "Easier to achieve when fighting the Doomsday Beast in Echo of War."
+        },
+        "43": {
+            "title": "Attack! No Matter the Cost!",
+            "version": 1.0,
+            "description": "Trigger Silvermane Lieutenant's Shield Reflect at least 4 time(s) and defeat it",
+            "comment": "Can be found in Simulated Universe World 3."
+        },
+        "44": {
+            "title": "Blade of Taixu",
+            "version": 1.0,
+            "description": "Deal 40,000 DMG in one attack",
+            "comment": "Easier to achieve when fighting the Doomsday Beast in Echo of War."
+        },
+        "45": {
+            "title": "Bring a Gun to a Knife Fight",
+            "version": 1.0,
+            "description": "Deal 20000 DMG or higher to an enemy whose HP percentage is equal to or lower than 1% in a single attack",
+            "comment": "Good luck with timing this."
+        },
+        "46": {
+            "title": "Break Till Broken",
+            "version": 1.0,
+            "description": "Inflict Weakness Break 4 time(s) upon the same enemy in a single battle"
+        },
+        "47": {
+            "title": "Bullet Time",
+            "version": 1.0,
+            "description": "Allies have 10 turns of action unbroken by enemies",
+            "comment": "Easier to achieve in Simulated Universe with the Path of Remembrance (freeze enemies perpetually)."
+        },
+        "48": {
+            "title": "Cataclysm Disruptor",
+            "version": 1.0,
+            "description": "Prevent the Doomsday Beast from using Impending Doom in Echo of War"
+        },
+        "49": {
+            "title": "Chad Norris",
+            "version": 1.0,
+            "description": "Defeat the Guardian Shadow without enraging it",
+            "comment": "Can be found in Corridor of Fading Echoes (Jarilo-VI), Shape of Fulmination (Stagnant Shadow), Forgotten Hall and Everwinter Hill."
+        },
+        "50": {
+            "title": "Code of Chivalry",
+            "version": 1.0,
+            "description": "Defeat Gepard without defeating the Silvermane Guards that were summoned",
+            "comment": "Can be found in Simulated Universe World 3."
+        },
+        "51": {
+            "title": "Coffee Lover",
+            "version": 1.0,
+            "description": "In a single battle, use Himeko's Ultimate 3 times",
+            "comment": "You can borrow a friend's Himeko."
+        },
+        "52": {
+            "title": "Consecutive Normal Punches",
+            "version": 1.0,
+            "description": "Deal 2,000 DMG in one attack"
+        },
+        "53": {
+            "title": "Decapitation Strike",
+            "version": 1.0,
+            "description": "Defeat the Silvermane Lieutenant without defeating any Silvermane Guards",
+            "comment": "Can be found in Simulated Universe World 3."
+        },
+        "54": {
+            "title": "Deus Ex Machina",
+            "version": 1.0,
+            "description": "Inflict Weakness Break on enemies 3 time(s) using the Trailblazer (Destruction) in a single battle"
+        },
+        "55": {
+            "title": "Doldrums",
+            "version": 1.0,
+            "description": "Make Stormbringer fail to use Windfall Storm due to having no ally with Wind Shear",
+            "comment": "Can be found in Simulated Universe World 2."
+        },
+        "56": {
+            "title": "DoT Breaker (I)",
+            "version": 1.0,
+            "description": "Defeat 80 enemies with DoT attacks",
+            "comment": "Easier to achieve in Simulated Universe with Path of Nihility."
+        },
+        "57": {
+            "title": "DoT Breaker (II)",
+            "version": 1.0,
+            "description": "Defeat 240 enemies with DoT attacks",
+            "comment": "Easier to achieve in Simulated Universe with Path of Nihility."
+        },
+        "58": {
+            "title": "Earthwork",
+            "version": 1.0,
+            "description": "An ally has a combined Shield effect greater than 5,000 at any time",
+            "comment": "Best achieved in Simulated Universe with shield blessings and Gepard."
+        },
+        "59": {
+            "title": "Electric Dreams",
+            "version": 1.0,
+            "description": "Defeat 3 enemies with Lightning Break DMG in a single battle"
+        },
+        "60": {
+            "title": "Energy Grandet",
+            "version": 1.0,
+            "description": "Have a character whose Energy is at 100% at the beginning of a turn for 4 turns in a row",
+            "comment": "Easier to achieve with Simulated Universe energy blessings and Tingyun."
+        },
+        "61": {
+            "title": "Et tu, Bronya?",
+            "version": 1.0,
+            "description": "Use Bronya to deal the final blow in a victory against boss Cocolia",
+            "comment": "Can be found in Simulated Universe World 6."
+        },
+        "62": {
+            "title": "Extreme Survival",
+            "version": 1.0,
+            "description": "Win a battle with all four allies having HP percentages equal to or less than 5%",
+            "comment": "Can be achieved by RNG with the Galactic Lotto Curio in Simulated Universe."
+        },
+        "63": {
+            "title": "Fahrenheit 451",
+            "version": 1.0,
+            "description": "Defeat 3 enemies with Fire Break DMG in a single battle"
+        },
+        "64": {
+            "title": "Fire Breaker (I)",
+            "version": 1.0,
+            "description": "Defeat 20 enemies with Fire Break DMG"
+        },
+        "65": {
+            "title": "Fire Breaker (II)",
+            "version": 1.0,
+            "description": "Defeat 60 enemies with Fire Break DMG"
+        },
+        "66": {
+            "title": "Follow-Up Breaker (I)",
+            "version": 1.0,
+            "description": "Defeat 80 enemies with follow-up attacks",
+            "comment": "Units with follow-up attacks include March 7th, Clara, Herta, Himeko, and Yanqing. There is a blessing in Simulated Universe that converts all Ultimates a follow-up attacks."
+        },
+        "67": {
+            "title": "Follow-Up Breaker (II)",
+            "version": 1.0,
+            "description": "Defeat 240 enemies with follow-up attacks",
+            "comment": "Units with follow-up attacks include March 7th, Clara, Herta, Himeko, and Yanqing. There is a blessing in Simulated Universe that converts all Ultimates a follow-up attacks."
+        },
+        "68": {
+            "title": "Foolish Little Brother...",
+            "version": 1.0,
+            "description": "Use Serval to deal the final blow in a victory against boss Gepard",
+            "comment": "Can be found in Simulated Universe World 3."
+        },
+        "69": {
+            "title": "Four-and-a-Half Pirouettes",
+            "version": 1.0,
+            "description": "Trigger Herta's talent with an ally's single attack, and have her twirl 5 time(s)",
+            "comment": "Easiest to achieve in Silvermane Restricted Guard Zone Difficulty 1, Winter Soldier's March. 5 relatively weak enemies on that stage."
+        },
+        "70": {
+            "title": "Friendly Fire",
+            "version": 1.0,
+            "description": "Defeat the Aurumaton Gatekeeper with the Entranced Ingenium: Illumination Dragonfish's \"Candle Flame\"",
+            "comment": "Can be found in the Cavern of Corrosion - Path of Conflagration."
+        },
+        "71": {
+            "title": "Full Metal Jacket",
+            "version": 1.0,
+            "description": "Stay alive after being hit by the Auxiliary Robot Arm Unit's Controlled Blasting ability",
+            "comment": "Can be found in Simulated Universe World 4."
+        },
+        "72": {
+            "title": "Heavenly Hand",
+            "version": 1.0,
+            "description": "Use a Technique to defeat all enemies upon entering battle",
+            "comment": "Easiest to achieve with Serval in Simulated Universe World 1."
+        },
+        "73": {
+            "title": "Highway Star",
+            "version": 1.0,
+            "description": "Allies act for 100 times in a single battle"
+        },
+        "74": {
+            "title": "Hit It Where It Hurts Most",
+            "version": 1.0,
+            "description": "Defeat the Antimatter Engine without defeating either of the Doomsday Beast's hands in Echo of War",
+            "comment": "Can be fought in Echo of War."
+        },
+        "75": {
+            "title": "Homemade Crushed Ice",
+            "version": 1.0,
+            "description": "Defeat the Ice Edge summoned by Cocolia 4 time(s)",
+            "comment": "Can be found in Simulated Universe World 6."
+        },
+        "76": {
+            "title": "Hot-Blooded",
+            "version": 1.0,
+            "description": "Defeat Cocolia, Mother of Deception, without any ally being Frozen at any point of the battle in Echo of War",
+            "comment": "Must be in Echo of War."
+        },
+        "77": {
+            "title": "I Don't Get No Respect!",
+            "version": 1.0,
+            "description": "Enrage the Guardian Shadow with 4 character(s) in your team",
+            "comment": "Can be found in Corridor of Fading Echoes (Jarilo-VI), Shape of Fulmination (Stagnant Shadow), Forgotten Hall and Everwinter Hill. Just use the attack type she punishes you for with each character."
+        },
+        "78": {
+            "title": "Ice Breaker (I)",
+            "version": 1.0,
+            "description": "Inflict Ice Weakness Break 100 time(s)"
+        },
+        "79": {
+            "title": "Ice Breaker (II)",
+            "version": 1.0,
+            "description": "Inflict Ice Weakness Break 300 time(s)"
+        },
+        "80": {
+            "title": "Imaginary Breaker (I)",
+            "version": 1.0,
+            "description": "Inflict Imaginary Weakness Break 100 time(s)"
+        },
+        "81": {
+            "title": "Imaginary Breaker (II)",
+            "version": 1.0,
+            "description": "Inflict Imaginary Weakness Break 300 time(s)"
+        },
+        "82": {
+            "title": "It's My Turn",
+            "version": 1.0,
+            "description": "Seele acts 5 time(s) in a row before the next ally unit's turn",
+            "comment": "You can borrow a friend's Seele."
+        },
+        "83": {
+            "title": "Ki Impact",
+            "version": 1.0,
+            "description": "Deal equal to or more than 20,000 DMG in a single attack"
+        },
+        "84": {
+            "title": "Lightning Breaker (I)",
+            "version": 1.0,
+            "description": "Defeat 20 enemies with Lightning Break DMG"
+        },
+        "85": {
+            "title": "Lightning Breaker (II)",
+            "version": 1.0,
+            "description": "Defeat 60 enemies with Lightning Break DMG"
+        },
+        "86": {
+            "title": "Listen...",
+            "version": 1.0,
+            "description": "Use the Trailblazer to fight boss Kafka and become Dominated by her",
+            "comment": "Can be found in Simulated Universe World 5."
+        },
+        "87": {
+            "title": "Memory, Sorrow, and Thorn",
+            "version": 1.0,
+            "description": "Inflict 4 DoT effects upon 1 enemie(s) at the same time",
+            "comment": "Easiest to achieve in Simulated Universe with Path of Nihility."
+        },
+        "88": {
+            "title": "Morituri Te Salutant",
+            "version": 1.0,
+            "description": "Defeat an enemy when a character has less than 1% of HP left",
+            "comment": "Can be achieved by RNG with the Galactic Lotto Curio in Simulated Universe."
+        },
+        "89": {
+            "title": "Mozambique Drill",
+            "version": 1.0,
+            "description": "Defeat 3 enemies with follow-up attacks in a single battle",
+            "comment": "Units with follow-up attacks include March 7th, Clara, Herta, Himeko, and Yanqing. There is a blessing in Simulated Universe that converts all Ultimates a follow-up attacks."
+        },
+        "90": {
+            "title": "No Offense",
+            "version": 1.0,
+            "description": "Remove buffs on enemies 5 time(s) in a single battle",
+            "comment": "Can be done with Pela or the Light Cone \"Return to Darkness\"."
+        },
+        "91": {
+            "title": "One on One",
+            "version": 1.0,
+            "description": "Enter combat with 4 character(s) but win with only 1 character(s) still standing",
+            "comment": "Can be done by bringing in 3 weak units and 1 strong one."
+        },
+        "92": {
+            "title": "Over-Protective",
+            "version": 1.0,
+            "description": "Win 1 battle(s) without having Gepard's Shields take any DMG",
+            "comment": "You can borrow a friend's Gepard for this."
+        },
+        "93": {
+            "title": "Passing as a Flower in the City of the Dead",
+            "version": 1.0,
+            "description": "Revive 2 downed character(s) in a single battle",
+            "comment": "Easier to achieve with Destruction blessings in Simulated Universe."
+        },
+        "94": {
+            "title": "Perpetual Freezer",
+            "version": 1.0,
+            "description": "Freeze 1 enemies for 3 turns in a row",
+            "comment": "Easier to achieve in Simulated Universe with plenty of freeze blessings."
+        },
+        "95": {
+            "title": "Perish Song",
+            "version": 1.0,
+            "description": "Get knocked out together with the enemy",
+            "comment": "There are Patrol Bots in Robot Settlement and Alchemists in Artisanship Commission (southwest) that explode when killed, dealing damage to you. With precise timing, kill them so that you get KO'd by the explosion. Only have 1 or 2 units on team."
+        },
+        "96": {
+            "title": "Physical Breaker (I)",
+            "version": 1.0,
+            "description": "Defeat 20 enemies with Physical Break DMG"
+        },
+        "97": {
+            "title": "Physical Breaker (II)",
+            "version": 1.0,
+            "description": "Defeat 60 enemies with Physical Break DMG"
+        },
+        "98": {
+            "title": "Preemptive Strike",
+            "version": 1.0,
+            "description": "Defeat 1 enemy with Technique DMG",
+            "comment": "Easiest to achieve with Serval in Simulated Universe World 1."
+        },
+        "99": {
+            "title": "Quantum Breaker (I)",
+            "version": 1.0,
+            "description": "Inflict Quantum Weakness Break 100 time(s)"
+        },
+        "100": {
+            "title": "Quantum Breaker (II)",
+            "version": 1.0,
+            "description": "Inflict Quantum Weakness Break 300 time(s)"
+        },
+        "101": {
+            "title": "Regurgitation",
+            "version": 1.0,
+            "description": "Cause Frigid Prowler to fail to use Devour Otherling",
+            "comment": "Can be found in Corridor of Fading Echoes (Jarilo-VI), Shape of Rime (Stagnant Shadow)."
+        },
+        "102": {
+            "title": "Reverberating Ruin",
+            "version": 1.0,
+            "description": "Deal 300,000 DMG in one attack",
+            "comment": "Easier to achieve when fighting the Doomsday Beast in Echo of War."
+        },
+        "103": {
+            "title": "Right-Hand Man's Many Right-Handed Right Hands",
+            "version": 1.0,
+            "description": "Defeat Svarog after destroying 4 Auxiliary Robot Arm Unit(s)",
+            "comment": "Can be found in Simulated Universe World 4."
+        },
+        "104": {
+            "title": "Road to Canossa",
+            "version": 1.0,
+            "description": "Interrupt Cocolia's use of \"Wraith of Winterland Saints\" when she is charging",
+            "comment": "Can be found in Simulated Universe World 6 or Echo of War. Either break or freeze her."
+        },
+        "105": {
+            "title": "Save the Princess",
+            "version": 1.0,
+            "description": "Defeat Cocolia without defeating Bronya",
+            "comment": "Can be found in Simulated Universe World 6."
+        },
+        "106": {
+            "title": "Schrödinger's Other Cat",
+            "version": 1.0,
+            "description": "Inflict 5 Quantum Weakness Breaks in a single battle"
+        },
+        "107": {
+            "title": "Serial Breaker",
+            "version": 1.0,
+            "description": "Inflict Weakness Break to 4 enemies in a single action"
+        },
+        "108": {
+            "title": "Serious Punch",
+            "version": 1.0,
+            "description": "Deal equal to or more than 1,000 DMG in a single attack"
+        },
+        "109": {
+            "title": "Serval's Parting Gift",
+            "version": 1.0,
+            "description": "Use Serval to deal the final blow in a victory against boss Cocolia",
+            "comment": "Can be found in Simulated Universe World 6 or Echo of War. With fast hands, you can reset the game and retry the battle if some other unit defeats Cocolia."
+        },
+        "110": {
+            "title": "Sunstorm",
+            "version": 1.0,
+            "description": "Defeat 3 enemies with Wind Break DMG in a single battle"
+        },
+        "111": {
+            "title": "Surge of Tiles",
+            "version": 1.0,
+            "description": "Qingque starts her turn in the \"Hidden Hand\" state for 3 turn(s) in a row",
+            "comment": "Requires RNG but also a fast team for better results."
+        },
+        "112": {
+            "title": "Technique Breaker (I)",
+            "version": 1.0,
+            "description": "Defeat 10 enemies with Technique DMG",
+            "comment": "Easiest to achieve with Serval in Simulated Universe World 1."
+        },
+        "113": {
+            "title": "Thank You for Your Service",
+            "version": 1.0,
+            "description": "Defeat Bronya without defeating the Silvermane Guards",
+            "comment": "Can be found in Forgotten Hall 14."
+        },
+        "114": {
+            "title": "The Cold Equations",
+            "version": 1.0,
+            "description": "Inflict 5 Ice Weakness Breaks in a single battle"
+        },
+        "115": {
+            "title": "The Demolished Man",
+            "version": 1.0,
+            "description": "Defeat 3 enemies with Physical Break DMG in a single battle"
+        },
+        "116": {
+            "title": "The Limping Lupine",
+            "version": 1.0,
+            "description": "Defeat Automaton Direwolf without triggering Felling Order",
+            "comment": "Can be found in Great Mine (Jarilo-VI), Shape of Spike (Stagnant Shadow)."
+        },
+        "117": {
+            "title": "Trauma Team Platinum Bundle",
+            "version": 1.0,
+            "description": "An ally heals for more than 8,000 HP in a single heal",
+            "comment": "Best achieved in Simulated Universe with healing blessings."
+        },
+        "118": {
+            "title": "Trial of Thirteen",
+            "version": 1.0,
+            "description": "In a single battle, make Svarog block attacks toward Clara 13 times",
+            "comment": "It might be exactly 13 times on the dot."
+        },
+        "119": {
+            "title": "Unimaginably Imaginary",
+            "version": 1.0,
+            "description": "Inflict 5 Imaginary Weakness Breaks in a single battle"
+        },
+        "120": {
+            "title": "Unstoppable",
+            "version": 1.0,
+            "description": "Use 4 Ultimates in a row"
+        },
+        "121": {
+            "title": "When the National Anthem Rings",
+            "version": 1.0,
+            "description": "Have ally Bronya use \"The Belobog March\" 1 time(s) when fighting the bosses Gepard, Cocolia, and Bronya respectively",
+            "comment": "Unfortunately you need to own Bronya to get this achievement."
+        },
+        "122": {
+            "title": "Will of Steel",
+            "version": 1.0,
+            "description": "In a single battle against boss Kafka, dispel Dominated 3 times",
+            "comment": "Can be found in Simulated Universe World 5."
+        },
+        "123": {
+            "title": "Wind Breaker (I)",
+            "version": 1.0,
+            "description": "Defeat 20 enemies with Wind Break DMG"
+        },
+        "124": {
+            "title": "Wind Breaker (II)",
+            "version": 1.0,
+            "description": "Defeat 60 enemies with Wind Break DMG"
+        },
+        "125": {
+            "title": "Wrathful Aurumaton",
+            "version": 1.0,
+            "description": "In a single battle, cause Aurumaton Gatekeeper to enter the Wrath state 3 times",
+            "comment": "Can be found in the Cavern of Corrosion - Path of Conflagration."
+        }
+    },
+    "Vestige of Luminflux": {
+
+        "126": {
+            "title": "The Express Passenger's Guide to the Galaxy",
+            "version": 1.0,
+            "description": "Obtain 10 characters"
+        },
+        "127": {
+            "title": "Express Crew Roster",
+            "version": 1.0,
+            "description": "Obtain 20 characters"
+        },
+        "128": {
+            "title": "The Great Interastral Migration",
+            "version": 1.0,
+            "description": "Obtain 50 characters"
+        },
+        "129": {
+            "title": "Ripples on the Dirac Sea (I)",
+            "version": 1.0,
+            "description": "Obtain 10 type(s) of Light Cones"
+        },
+        "130": {
+            "title": "Ripples on the Dirac Sea (II)",
+            "version": 1.0,
+            "description": "Obtain 20 type(s) of Light Cones"
+        },
+        "131": {
+            "title": "Ripples on the Dirac Sea (III)",
+            "version": 1.0,
+            "description": "Obtain 40 type(s) of Light Cones"
+        },
+        "132": {
+            "title": "Supreme Treasure of the Netherworld",
+            "version": 1.0,
+            "description": "Obtain a 5-star Relic"
+        },
+        "133": {
+            "title": "Fate/stranger Fake",
+            "version": 1.0,
+            "description": "Obtain 5 5-star Relic(s) from the Omni-Synthesizer"
+        },
+        "134": {
+            "title": "Interastral Peace Diamond Membership",
+            "version": 1.0,
+            "description": "Obtain 1,000,000 credits in total"
+        },
+        "135": {
+            "title": "Interastral Peace Supreme Diamond Membership",
+            "version": 1.0,
+            "description": "Obtain 10,000,000 credits in total"
+        },
+        "136": {
+            "title": "Mega Rich Light-Bending Guy",
+            "version": 1.0,
+            "description": "Obtain 100,000,000 credits in total"
+        }
+    },
+    "Universe in a Nutshell": {
+
+    },
+    "Glory of the Unyielding": {
+
+    },
+    "Moment of Joy": {
+
+    },
+    "The Memories We Share": {
+
+    },
+    "Fathom the Unfathomable": {
+
     }
 }
