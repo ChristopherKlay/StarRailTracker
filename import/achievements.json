@@ -1,0 +1,123 @@
+{
+    "Trailblazer": {
+        "1": {
+            "title": "Armed to the Teeth",
+            "version": 1.0,
+            "description": "Level up 4 Relics to Lv.15"
+        },
+        "2": {
+            "title": "Childhood's End",
+            "version": 1.0,
+            "description": "Enhance 4 characters to Lv. 80",
+            "comment": "Reach EQ5 (TL60)"
+        },
+        "3": {
+            "title": "Destiny Beckons (I)",
+            "version": 1.0,
+            "description": "Possess 1 Light Cone at Lv. 40",
+            "comment": "Reach EQ2 (TL30)"
+        },
+        "4": {
+            "title": "Destiny Beckons (II)",
+            "version": 1.0,
+            "description": "Possess 1 Light Cone at Lv. 60",
+            "comment": "Reach EQ2 (TL40)"
+        },
+        "5": {
+            "title": "Destiny Beckons (III)",
+            "version": 1.0,
+            "description": "Possess 1 Light Cone at Lv. 80",
+            "comment": "Reach EQ2 (TL60)"
+        },
+        "6": {
+            "title": "Divine Relics (IV)",
+            "version": 1.0,
+            "description": "Level up a 4-star Relic to Max level",
+            "comment": "Max Level = 12"
+        },
+        "7": {
+            "title": "Divine Relics (V)",
+            "version": 1.0,
+            "description": "Level up a 5-star Relic to Max level",
+            "comment": "Max Level = 15"
+        },
+        "8": {
+            "title": "Don't Make This Too Easy (I)",
+            "version": 1.0,
+            "description": "Reach Equilibrium Level 1",
+            "comment": "Unlocked at TL20"
+        },
+        "9": {
+            "title": "Don't Make This Too Easy (II)",
+            "version": 1.0,
+            "description": "Reach Equilibrium Level 3",
+            "comment": "Unlocked at TL40"
+        },
+        "10": {
+            "title": "Don't Make This Too Easy (III)",
+            "version": 1.0,
+            "description": "Reach Equilibrium Level 6",
+            "comment": "Unlocked at TL65"
+        },
+        "11": {
+            "title": "Ever-Burning Amber",
+            "version": 1.0,
+            "description": "Tread on the Path of Preservation",
+            "comment": "Unlock Fire Trailblazer during the main story"
+        },
+        "12": {
+            "title": "I Have Finished The Race",
+            "version": 1.0,
+            "description": "Level up all Traces for a character to the maximum level"
+        },
+        "13": {
+            "title": "My Childhood",
+            "version": 1.0,
+            "description": "Reach Character Level 40 with any character",
+            "comment": "Unlocked at EQ1"
+        },
+        "14": {
+            "title": "My Apprenticeship",
+            "version": 1.0,
+            "description": "Reach Character Level 60 with any character",
+            "comment": "Unlocked at EQ3"
+        },
+        "15": {
+            "title": "My Universities",
+            "version": 1.0,
+            "description": "Reach Character Level 80 with any character",
+            "comment": "Unlocked at EQ5 (TL60)"
+        },
+        "16": {
+            "title": "Path Traces (I)",
+            "version": 1.0,
+            "description": "Activate or level up character Traces 3 time(s)"
+        },
+        "17": {
+            "title": "Path Traces (II)",
+            "version": 1.0,
+            "description": "Activate or level up character Traces 20 time(s)"
+        },
+        "18": {
+            "title": "Path Traces (III)",
+            "version": 1.0,
+            "description": "Activate or level up character Traces 50 time(s)"
+        },
+        "19": {
+            "title": "Path Traces (IV)",
+            "version": 1.0,
+            "description": "Activate or level up character Traces 100 time(s)"
+        },
+        "20": {
+            "title": "Sovereign Warframe",
+            "version": 1.0,
+            "description": "Equip a character with level 15 5-star Relics in all slots"
+        },
+        "21": {
+            "title": "There's Always Time for Love",
+            "version": 1.0,
+            "description": "Possess 4 Light Cone at Lv. 80",
+            "comment": "Unlocked at EQ5 (TL60)"
+        }
+    }
+}
