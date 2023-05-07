@@ -660,6 +660,12 @@
             "version": 1.0,
             "description": "Defeat 3 enemies with Physical Break DMG in a single battle"
         },
+        "340": {
+            "title": "The Exorcist",
+            "version": 1.0,
+            "description": "Remove debuffs from allies 5 time(s) in a single battle",
+            "comment": "Can be done by March 7th, Natasha, or blessings in Simulated Universe."
+        },
         "116": {
             "title": "The Limping Lupine",
             "version": 1.0,
