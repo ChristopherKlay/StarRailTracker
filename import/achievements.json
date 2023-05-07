@@ -1,5 +1,5 @@
 {
-    "Trailblazer": {
+    "I, Trailblazer": {
         "1": {
             "title": "Armed to the Teeth",
             "version": 1.0,
@@ -120,74 +120,74 @@
             "comment": "Unlocked at EQ5 (TL60)"
         }
     },
-    "The Rail Unto the Stars": {
-        "22": {
+  "The Rail Unto the Stars": {
+    "22": {
             "title": "A Professional Onlooker",
             "version": 1.0,
             "description": "When the Wind-Watcher Waches You..",
             "comment": "Find Qingque, who is \"working hard\" at playing games..."
         },
-        "23": {
+    "23": {
             "title": "Draconic Opulence",
             "version": 1.0,
             "description": "Witness Dan Shu's story",
             "comment": "Discover Dan Shu's true identity..."
         },
-        "24": {
+     "24": {
             "title": "Everwinter Night",
             "version": 1.0,
             "description": "After enduring the snow storm...",
             "comment": "You have arrived at the city of Belobog."
         },
-        "25": {
+    "25": {
             "title": "Half the Wizard of Oz",
             "version": 1.0,
             "description": "Defeat the tin man and the little girl",
             "comment": "Svarog and Clara became your friends!"
         },
-        "26": {
+    "26": {
             "title": "Lost World",
             "version": 1.0,
             "description": "Discover the secret beneath Jarilo-VI",
             "comment": "There are people living underground..."
         },
-        "27": {
+    "27": {
             "title": "My Heart Lies With the Stars",
             "version": 1.0,
             "description": "Launch a journey into the vast Galaxy",
             "comment": "Congratulations! You have boarded the Astral Express!"
         },
-        "28": {
+    "28": {
             "title": "Omniscia Spares None",
             "version": 1.0,
             "description": "What Goes Around Comes Around",
             "comment": "Successfully capture the Stellaron Hunter Kafka."
         },
-        "29": {
+    "29": {
             "title": "Prophets Do Not Prophesize",
             "version": 1.0,
             "description": "Witness the mystery of the Divination Commission's matrix",
             "comment": "Interrogate Kafka with the Matrix of Prescience..."
         },
-        "30": {
+    "30": {
             "title": "Sauntering Fox",
             "version": 1.0,
             "description": "Diplomacy is but a trade of opinions...",
             "comment": "Confer with the leader(s) of the Xianzhou Luofu."
         },
-        "31": {
+    "31": {
             "title": "Slayer of a Very \"Deer\" Friend",
             "version": 1.0,
             "description": "Try to walk on the Path of the Hunt...",
             "comment": "Help Xianzhou to defeat the Abomination of Abundance, \"Ebon Deer\""
         },
-        "32": {
+    "32": {
             "title": "The Deer Hunter",
             "version": 1.0,
             "description": "The Furnace Endured, the Antlers Obscured",
             "comment": "Save the Artisanship Commission from the crisis."
         },
-        "33": {
+    "33": {
             "title": "Winter Is Leaving",
             "version": 1.0,
             "description": "Make Belobog Great Again, Again",
@@ -195,18 +195,18 @@
         }
     },
     "Eager for Battle": {
-        "34": {
+      "34": {
             "title": "A Casualty of Armors",
             "version": 1.0,
             "description": "Receive a total of 10,000 DMG on 1 character in a single battle"
         },
-        "35": {
+      "35": {
             "title": "A Song of Vice and Dire",
             "version": 1.0,
             "description": "Inflict both Burn and Freeze upon 1 enemy at the same time",
             "comment": "Easier to achieve in Simulated Universe with blessings."
         },
-        "36": {
+      "36": {
             "title": "A Thousand Cuts...",
             "version": 1.0,
             "description": "Defeat 3 enemies using DoT in a single battle",
@@ -253,19 +253,19 @@
             "version": 1.0,
             "description": "Trigger Silvermane Lieutenant's Shield Reflect at least 4 time(s) and defeat it",
             "comment": "Can be found in Simulated Universe World 3."
-        },
+        },  
         "44": {
             "title": "Blade of Taixu",
             "version": 1.0,
             "description": "Deal 40,000 DMG in one attack",
             "comment": "Easier to achieve when fighting the Doomsday Beast in Echo of War."
-        },
+        },  
         "45": {
             "title": "Bring a Gun to a Knife Fight",
             "version": 1.0,
             "description": "Deal 20000 DMG or higher to an enemy whose HP percentage is equal to or lower than 1% in a single attack",
             "comment": "Good luck with timing this."
-        },
+        },  
         "46": {
             "title": "Break Till Broken",
             "version": 1.0,
@@ -276,244 +276,244 @@
             "version": 1.0,
             "description": "Allies have 10 turns of action unbroken by enemies",
             "comment": "Easier to achieve in Simulated Universe with the Path of Remembrance (freeze enemies perpetually)."
-        },
+        },  
         "48": {
             "title": "Cataclysm Disruptor",
             "version": 1.0,
             "description": "Prevent the Doomsday Beast from using Impending Doom in Echo of War"
-        },
+        },  
         "49": {
             "title": "Chad Norris",
             "version": 1.0,
             "description": "Defeat the Guardian Shadow without enraging it",
             "comment": "Can be found in Corridor of Fading Echoes (Jarilo-VI), Shape of Fulmination (Stagnant Shadow), Forgotten Hall and Everwinter Hill."
-        },
+        },  
         "50": {
             "title": "Code of Chivalry",
             "version": 1.0,
             "description": "Defeat Gepard without defeating the Silvermane Guards that were summoned",
             "comment": "Can be found in Simulated Universe World 3."
-        },
+        },  
         "51": {
             "title": "Coffee Lover",
             "version": 1.0,
             "description": "In a single battle, use Himeko's Ultimate 3 times",
             "comment": "You can borrow a friend's Himeko."
-        },
+        }, 
         "52": {
             "title": "Consecutive Normal Punches",
             "version": 1.0,
             "description": "Deal 2,000 DMG in one attack"
-        },
+        }, 
         "53": {
             "title": "Decapitation Strike",
             "version": 1.0,
             "description": "Defeat the Silvermane Lieutenant without defeating any Silvermane Guards",
             "comment": "Can be found in Simulated Universe World 3."
-        },
+        }, 
         "54": {
             "title": "Deus Ex Machina",
             "version": 1.0,
             "description": "Inflict Weakness Break on enemies 3 time(s) using the Trailblazer (Destruction) in a single battle"
-        },
+        }, 
         "55": {
             "title": "Doldrums",
             "version": 1.0,
             "description": "Make Stormbringer fail to use Windfall Storm due to having no ally with Wind Shear",
             "comment": "Can be found in Simulated Universe World 2."
-        },
+        }, 
         "56": {
             "title": "DoT Breaker (I)",
             "version": 1.0,
             "description": "Defeat 80 enemies with DoT attacks",
             "comment": "Easier to achieve in Simulated Universe with Path of Nihility."
-        },
+        }, 
         "57": {
             "title": "DoT Breaker (II)",
             "version": 1.0,
             "description": "Defeat 240 enemies with DoT attacks",
             "comment": "Easier to achieve in Simulated Universe with Path of Nihility."
-        },
+        }, 
         "58": {
             "title": "Earthwork",
             "version": 1.0,
             "description": "An ally has a combined Shield effect greater than 5,000 at any time",
             "comment": "Best achieved in Simulated Universe with shield blessings and Gepard."
-        },
+        }, 
         "59": {
             "title": "Electric Dreams",
             "version": 1.0,
             "description": "Defeat 3 enemies with Lightning Break DMG in a single battle"
-        },
+        }, 
         "60": {
             "title": "Energy Grandet",
             "version": 1.0,
             "description": "Have a character whose Energy is at 100% at the beginning of a turn for 4 turns in a row",
             "comment": "Easier to achieve with Simulated Universe energy blessings and Tingyun."
-        },
+        }, 
         "61": {
             "title": "Et tu, Bronya?",
             "version": 1.0,
             "description": "Use Bronya to deal the final blow in a victory against boss Cocolia",
             "comment": "Can be found in Simulated Universe World 6."
-        },
+        }, 
         "62": {
             "title": "Extreme Survival",
             "version": 1.0,
             "description": "Win a battle with all four allies having HP percentages equal to or less than 5%",
             "comment": "Can be achieved by RNG with the Galactic Lotto Curio in Simulated Universe."
-        },
+        }, 
         "63": {
             "title": "Fahrenheit 451",
             "version": 1.0,
             "description": "Defeat 3 enemies with Fire Break DMG in a single battle"
-        },
+        }, 
         "64": {
             "title": "Fire Breaker (I)",
             "version": 1.0,
             "description": "Defeat 20 enemies with Fire Break DMG"
-        },
+        }, 
         "65": {
             "title": "Fire Breaker (II)",
             "version": 1.0,
             "description": "Defeat 60 enemies with Fire Break DMG"
-        },
+        }, 
         "66": {
             "title": "Follow-Up Breaker (I)",
             "version": 1.0,
             "description": "Defeat 80 enemies with follow-up attacks",
             "comment": "Units with follow-up attacks include March 7th, Clara, Herta, Himeko, and Yanqing. There is a blessing in Simulated Universe that converts all Ultimates a follow-up attacks."
-        },
+        }, 
         "67": {
             "title": "Follow-Up Breaker (II)",
             "version": 1.0,
             "description": "Defeat 240 enemies with follow-up attacks",
             "comment": "Units with follow-up attacks include March 7th, Clara, Herta, Himeko, and Yanqing. There is a blessing in Simulated Universe that converts all Ultimates a follow-up attacks."
-        },
+        }, 
         "68": {
             "title": "Foolish Little Brother...",
             "version": 1.0,
             "description": "Use Serval to deal the final blow in a victory against boss Gepard",
             "comment": "Can be found in Simulated Universe World 3."
-        },
+        }, 
         "69": {
             "title": "Four-and-a-Half Pirouettes",
             "version": 1.0,
             "description": "Trigger Herta's talent with an ally's single attack, and have her twirl 5 time(s)",
             "comment": "Easiest to achieve in Silvermane Restricted Guard Zone Difficulty 1, Winter Soldier's March. 5 relatively weak enemies on that stage."
-        },
+        }, 
         "70": {
             "title": "Friendly Fire",
             "version": 1.0,
             "description": "Defeat the Aurumaton Gatekeeper with the Entranced Ingenium: Illumination Dragonfish's \"Candle Flame\"",
             "comment": "Can be found in the Cavern of Corrosion - Path of Conflagration."
-        },
+        }, 
         "71": {
             "title": "Full Metal Jacket",
             "version": 1.0,
             "description": "Stay alive after being hit by the Auxiliary Robot Arm Unit's Controlled Blasting ability",
             "comment": "Can be found in Simulated Universe World 4."
-        },
+        }, 
         "72": {
             "title": "Heavenly Hand",
             "version": 1.0,
             "description": "Use a Technique to defeat all enemies upon entering battle",
             "comment": "Easiest to achieve with Serval in Simulated Universe World 1."
-        },
+        }, 
         "73": {
             "title": "Highway Star",
             "version": 1.0,
             "description": "Allies act for 100 times in a single battle"
-        },
+        }, 
         "74": {
             "title": "Hit It Where It Hurts Most",
             "version": 1.0,
             "description": "Defeat the Antimatter Engine without defeating either of the Doomsday Beast's hands in Echo of War",
             "comment": "Can be fought in Echo of War."
-        },
+        }, 
         "75": {
             "title": "Homemade Crushed Ice",
             "version": 1.0,
             "description": "Defeat the Ice Edge summoned by Cocolia 4 time(s)",
             "comment": "Can be found in Simulated Universe World 6."
-        },
+        }, 
         "76": {
             "title": "Hot-Blooded",
             "version": 1.0,
             "description": "Defeat Cocolia, Mother of Deception, without any ally being Frozen at any point of the battle in Echo of War",
             "comment": "Must be in Echo of War."
-        },
+        }, 
         "77": {
             "title": "I Don't Get No Respect!",
             "version": 1.0,
             "description": "Enrage the Guardian Shadow with 4 character(s) in your team",
             "comment": "Can be found in Corridor of Fading Echoes (Jarilo-VI), Shape of Fulmination (Stagnant Shadow), Forgotten Hall and Everwinter Hill. Just use the attack type she punishes you for with each character."
-        },
+        }, 
         "78": {
             "title": "Ice Breaker (I)",
             "version": 1.0,
             "description": "Inflict Ice Weakness Break 100 time(s)"
-        },
+        }, 
         "79": {
             "title": "Ice Breaker (II)",
             "version": 1.0,
             "description": "Inflict Ice Weakness Break 300 time(s)"
-        },
+        }, 
         "80": {
             "title": "Imaginary Breaker (I)",
             "version": 1.0,
             "description": "Inflict Imaginary Weakness Break 100 time(s)"
-        },
+        }, 
         "81": {
             "title": "Imaginary Breaker (II)",
             "version": 1.0,
             "description": "Inflict Imaginary Weakness Break 300 time(s)"
-        },
+        }, 
         "82": {
             "title": "It's My Turn",
             "version": 1.0,
             "description": "Seele acts 5 time(s) in a row before the next ally unit's turn",
             "comment": "You can borrow a friend's Seele."
-        },
+        }, 
         "83": {
             "title": "Ki Impact",
             "version": 1.0,
             "description": "Deal equal to or more than 20,000 DMG in a single attack"
-        },
+        }, 
         "84": {
             "title": "Lightning Breaker (I)",
             "version": 1.0,
             "description": "Defeat 20 enemies with Lightning Break DMG"
-        },
+        }, 
         "85": {
             "title": "Lightning Breaker (II)",
             "version": 1.0,
             "description": "Defeat 60 enemies with Lightning Break DMG"
-        },
+        }, 
         "86": {
             "title": "Listen...",
             "version": 1.0,
             "description": "Use the Trailblazer to fight boss Kafka and become Dominated by her",
             "comment": "Can be found in Simulated Universe World 5."
-        },
+        }, 
         "87": {
             "title": "Memory, Sorrow, and Thorn",
             "version": 1.0,
             "description": "Inflict 4 DoT effects upon 1 enemie(s) at the same time",
             "comment": "Easiest to achieve in Simulated Universe with Path of Nihility."
-        },
+        }, 
         "88": {
             "title": "Morituri Te Salutant",
             "version": 1.0,
             "description": "Defeat an enemy when a character has less than 1% of HP left",
             "comment": "Can be achieved by RNG with the Galactic Lotto Curio in Simulated Universe."
-        },
+        }, 
         "89": {
             "title": "Mozambique Drill",
             "version": 1.0,
             "description": "Defeat 3 enemies with follow-up attacks in a single battle",
             "comment": "Units with follow-up attacks include March 7th, Clara, Herta, Himeko, and Yanqing. There is a blessing in Simulated Universe that converts all Ultimates a follow-up attacks."
-        },
+        }, 
         "90": {
             "title": "No Offense",
             "version": 1.0,
@@ -718,7 +718,7 @@
         }
     },
     "Vestige of Luminflux": {
-
+       
         "126": {
             "title": "The Express Passenger's Guide to the Galaxy",
             "version": 1.0,
@@ -776,18 +776,1134 @@
         }
     },
     "Universe in a Nutshell": {
-
+        "137": {
+            "title": "The First and Last Freedom",
+            "version": 1.0,
+            "description": "Enter battle with 4 allies with HP percentage equal to or less than 1% in Simulated Universe",
+            "comment": "Can be achieved by RNG with the Galactic Lotto Curio."
+        },
+        "138": {
+            "title": "The Art of Loving",
+            "version": 1.0,
+            "description": "Allies receive Shields 50 times in Simulated Universe"
+        },
+        "139": {
+            "title": "Freeze!",
+            "version": 1.0,
+            "description": "Keep a single enemy Frozen for 10 turns in Simulated Universe",
+            "comment": "Take the Path of Remembrance and pick Freeze blessings."
+        },
+        "140": {
+            "title": "Elemental Reaction System",
+            "version": 1.0,
+            "description": "Deal 5 or more Types of DMG in a single attack in Simulated Universe"
+        },
+        "141": {
+            "title": "Your Opponent has Poor Connection",
+            "version": 1.0,
+            "description": "Allies take consecutive actions 20 time(s) in Simulated Universe"
+        },
+        "142": {
+            "title": "Twenty Four Love Poems and a Song of Despair",
+            "version": 1.0,
+            "description": "All allies have HP percentage equal to or less than 5% when winning a battle in Simulated Universe",
+            "comment": "Can be achieved by RNG with the Galactic Lotto Curio in Simulated Universe."
+        },
+        "143": {
+            "title": "We Call the Heart Dancing in the Dark the Moon",
+            "version": 1.0,
+            "description": "Have at least 3 enemy unit(s) be afflicted with Shock, Burn, Bleed, and Wind Shear simultaneously in Simulated Universe",
+            "comment": "Take the Path of Nihility and use Path Resonance."
+        },
+        "144": {
+            "title": "Good Night, My Friend",
+            "version": 1.0,
+            "description": "Defeat 15 enemies in Simulated Universe"
+        },
+        "145": {
+            "title": "Ready Player One",
+            "version": 1.0,
+            "description": "Defeat 1,000 enemies in Simulated Universe"
+        },
+        "146": {
+            "title": "Consumerism Psychology",
+            "version": 1.0,
+            "description": "Obtain 500 Cosmic Fragment(s)"
+        },
+        "147": {
+            "title": "The Great Cosmic Gatsby",
+            "version": 1.0,
+            "description": "Obtain 20,000 Cosmic Fragment(s)"
+        },
+        "148": {
+            "title": "A Special Experience",
+            "version": 1.0,
+            "description": "Encounter 10 Special Event(s) in Simulated Universe"
+        },
+        "149": {
+            "title": "A Not-So-Special Experience",
+            "version": 1.0,
+            "description": "Encounter 100 Special Event(s) in Simulated Universe"
+        },
+        "150": {
+            "title": "A Room of One's Own",
+            "version": 1.0,
+            "description": "Complete exploring Simulated Universe: World 1"
+        },
+        "151": {
+            "title": "Penrose Stairs",
+            "version": 1.0,
+            "description": "Complete exploring Simulated Universe at difficulty level 2 or higher"
+        },
+        "152": {
+            "title": "King of Infinity",
+            "version": 1.0,
+            "description": "Complete exploring Simulated Universe at difficulty level 4 or higher"
+        },
+        "153": {
+            "title": "Fevered Strike",
+            "version": 1.0,
+            "description": "Break 20 destructible object(s) in Simulated Universe"
+        },
+        "154": {
+            "title": "Rosebud",
+            "version": 1.0,
+            "description": "Break 400 destructible object(s) in Simulated Universe"
+        },
+        "155": {
+            "title": "Adrenaline",
+            "version": 1.0,
+            "description": "Actively Enhance Blessings 10 times in Simulated Universe"
+        },
+        "156": {
+            "title": "Infectious Good Luck",
+            "version": 1.0,
+            "description": "Actively Enhance Blessings 200 times in Simulated Universe"
+        },
+        "157": {
+            "title": "Do Android Snails Dream of Electric Trees?",
+            "version": 1.0,
+            "description": "Activate abilities in the Ability Tree 2 times"
+        },
+        "158": {
+            "title": "Expert Tree-Climber",
+            "version": 1.0,
+            "description": "Activate abilities in the Ability Tree 26 times"
+        },
+        "159": {
+            "title": "My Swiss Army Curios",
+            "version": 1.0,
+            "description": "Unlock 3 Curios in Simulated Universe"
+        },
+        "160": {
+            "title": "Life is but a Game",
+            "version": 1.0,
+            "description": "Unlock 40 Curios in Simulated Universe"
+        },
+        "161": {
+            "title": "Who Moved My Pokeball?",
+            "version": 1.0,
+            "description": "Capture Trotters 1 times in Simulated Universe"
+        },
+        "162": {
+            "title": "A Porcine Football Team",
+            "version": 1.0,
+            "description": "Capture Trotters 66 times in Simulated Universe",
+            "comment": "Good luck! Trotters are less likely to escape when CC'd."
+        },
+        "163": {
+            "title": "Don't Let It Get Away!",
+            "version": 1.0,
+            "description": "Let Trotters escape 1 times in Simulated Universe"
+        },
+        "164": {
+            "title": "Existence Precedes Essence",
+            "version": 1.0,
+            "description": "Unlock 12 Blessing(s) of Preservation in Simulated Universe"
+        },
+        "165": {
+            "title": "Memories Look at Me",
+            "version": 1.0,
+            "description": "Unlock 12 Blessing(s) of Remembrance in Simulated Universe"
+        },
+        "166": {
+            "title": "Create a Beautiful Chaos",
+            "version": 1.0,
+            "description": "Unlock 12 Blessing(s) of Elation in Simulated Universe"
+        },
+        "167": {
+            "title": "Velocity of the Universe's Expansion",
+            "version": 1.0,
+            "description": "Unlock 12 Blessing(s) of The Hunt in Simulated Universe"
+        },
+        "168": {
+            "title": "Wreck-It Self",
+            "version": 1.0,
+            "description": "Unlock 12 Blessing(s) of Destruction in Simulated Universe"
+        },
+        "169": {
+            "title": "Gnosticism",
+            "version": 1.0,
+            "description": "Unlock 12 Blessing(s) of Nihility in Simulated Universe"
+        },
+        "170": {
+            "title": "Exhalation",
+            "version": 1.0,
+            "description": "Unlock 12 Blessing(s) of Abundance in Simulated Universe"
+        },
+        "171": {
+            "title": "Millenium Bug in Amber",
+            "version": 1.0,
+            "description": "Have 10 or more Blessing(s) of Preservation when clearing Simulated Universe"
+        },
+        "172": {
+            "title": "You See Memories",
+            "version": 1.0,
+            "description": "Have 10 or more Blessing(s) of Remembrance when clearing Simulated Universe"
+        },
+        "173": {
+            "title": "Don't Worry Be Happy",
+            "version": 1.0,
+            "description": "Have 10 or more Blessing(s) of Elation when clearing Simulated Universe"
+        },
+        "174": {
+            "title": "The Speed of Thought",
+            "version": 1.0,
+            "description": "Have 10 or more Blessing(s) of The Hunt when clearing Simulated Universe"
+        },
+        "175": {
+            "title": "Cool Guys Don't Look At Explosions",
+            "version": 1.0,
+            "description": "Have 10 or more Blessing(s) of Destruction when clearing Simulated Universe"
+        },
+        "176": {
+            "title": "The Plague of Fantasies",
+            "version": 1.0,
+            "description": "Have 10 or more Blessing(s) of Nihility when clearing Simulated Universe"
+        },
+        "177": {
+            "title": "Angel's Breath",
+            "version": 1.0,
+            "description": "Have 10 or more Blessing(s) of Abundance when clearing Simulated Universe"
+        },
+        "178": {
+            "title": "A Finger in Every Pie",
+            "version": 1.0,
+            "description": "Have Blessings from 6 or more Paths when clearing Simulated Universe"
+        },
+        "179": {
+            "title": "An Island Unto Oneself",
+            "version": 1.0,
+            "description": "Have 6 or less Blessing(s) when clearing Simulated Universe at difficulty level 2 or higher",
+            "comment": "Extremely difficult, requires RNG just to avoid blessings in the first place."
+        },
+        "180": {
+            "title": "Private Collector",
+            "version": 1.0,
+            "description": "Have 22 or more Blessing(s) when clearing Simulated Universe"
+        },
+        "181": {
+            "title": "Triangle Strategy",
+            "version": 1.0,
+            "description": "Flip cards 3 times in a single Nildis event in Simulated Universe"
+        },
+        "182": {
+            "title": "Master Ball",
+            "version": 1.0,
+            "description": "Have 8 or more Curio(s) when clearing Simulated Universe"
+        },
+        "183": {
+            "title": "A 4-Star Rarity Daydream",
+            "version": 1.0,
+            "description": "Have 0 or less Cosmic Fragment(s) when clearing Simulated Universe"
+        },
+        "184": {
+            "title": "It's Good to Be Rich!",
+            "version": 1.0,
+            "description": "Have 1,024 or more Cosmic Fragment(s) when clearing Simulated Universe"
+        },
+        "185": {
+            "title": "The Grand Budapest Hotel",
+            "version": 1.0,
+            "description": "Clear Simulated Universe at difficulty level 2 or higher and use Techniques 25 times"
+        },
+        "186": {
+            "title": "Coherence",
+            "version": 1.0,
+            "description": "Clear Simulated Universe at difficulty level 2 or higher with 4 characters of the same Path"
+        },
+        "187": {
+            "title": "Does This Game Not Have a Platinum Trophy?",
+            "version": 1.0,
+            "description": "Clear Simulated Universe (Difficulty Level 2 and above) with all allies at full HP at the end of every battle",
+            "comment": "Requires a Bailu or Gepard (or both) and mix of shield/heal blessings."
+        },
+        "188": {
+            "title": "Console Game",
+            "version": 1.0,
+            "description": "Clear Simulated Universe at difficulty 2 or higher without using the Downloader"
+        },
+        "189": {
+            "title": "If I Can Stop One Heart From Breaking",
+            "version": 1.0,
+            "description": "Clear Simulated Universe at difficulty 2 or higher without breaking any destructible objects"
+        },
+        "190": {
+            "title": "Aleph is the Universe",
+            "version": 1.0,
+            "description": "Clear Simulated Universe at difficulty 2 or higher with only 1 character in the team",
+            "comment": "Probably needs an extremely buffed Clara. Best done in Simulated Universe World 3."
+        },
+        "191": {
+            "title": "On Fire off the Shoulder of Orion",
+            "version": 1.0,
+            "description": "Lose against Elite enemies in Simulated Universe"
+        },
+        "192": {
+            "title": "Glitter at the Tannhauser Gate",
+            "version": 1.0,
+            "description": "Lose against the Boss enemies in Simulated Universe"
+        },
+        "193": {
+            "title": "Lost Like Tears in Rain",
+            "version": 1.0,
+            "description": "Lose the battle in the tavern event in Simulated Universe",
+            "comment": "You'll find this event randomly in Occurence."
+        },
+        "194": {
+            "title": "Wake Up!",
+            "version": 1.0,
+            "description": "Lose the battle in the Nildis event in Simulated Universe",
+            "comment": "You'll find this event randomly in Occurence."
+        }
     },
     "Glory of the Unyielding": {
-
+        "195": {
+            "title": "Day of the Triffids (I)",
+            "version": 1.0,
+            "description": "Defeat Calyx 100 time(s)"
+        },
+        "196": {
+            "title": "Day of the Triffids (II)",
+            "version": 1.0,
+            "description": "Defeat Calyx 500 time(s)"
+        },
+        "197": {
+            "title": "Day of the Triffids (III)",
+            "version": 1.0,
+            "description": "Defeat Calyx 1000 time(s)"
+        },
+        "198": {
+            "title": "Echo of War (I)",
+            "version": 1.0,
+            "description": "Complete Echo of War 1 time(s)"
+        },
+        "199": {
+            "title": "Echo of War (II)",
+            "version": 1.0,
+            "description": "Complete Echo of War 10 time(s)"
+        },
+        "200": {
+            "title": "Phantom of the Cavern (I)",
+            "version": 1.0,
+            "description": "Complete Caverns of Corrosion 100 time(s)"
+        },
+        "201": {
+            "title": "Phantom of the Cavern (II)",
+            "version": 1.0,
+            "description": "Complete Caverns of Corrosion 400 time(s)"
+        },
+        "202": {
+            "title": "Phantom of the Cavern (III)",
+            "version": 1.0,
+            "description": "Complete Caverns of Corrosion 800 time(s)"
+        },
+        "203": {
+            "title": "Shadows Die Ad Infinitum (I)",
+            "version": 1.0,
+            "description": "Defeat Stagnant Shadow 100 time(s)"
+        },
+        "204": {
+            "title": "Shadows Die Ad Infinitum (II)",
+            "version": 1.0,
+            "description": "Defeat Stagnant Shadow 400 time(s)"
+        },
+        "205": {
+            "title": "Shadows Die Ad Infinitum (III)",
+            "version": 1.0,
+            "description": "Defeat Stagnant Shadow 800 time(s)"
+        }
     },
     "Moment of Joy": {
-
+        "205": {
+            "title": "Earth Week",
+            "version": 1.0,
+            "description": "Log in 7 days in a row"
+        },
+        "206": {
+            "title": "Earth Month",
+            "version": 1.0,
+            "description": "Log in for a total of 30 days"
+        },
+        "207": {
+            "title": "Earth Year",
+            "version": 1.0,
+            "description": "Log in for a total of 365 days"
+        },
+        "208": {
+            "title": "Karmic Wheel",
+            "version": 1.0,
+            "description": "Let the Higher Existence that lives within our hearts sigh at you",
+            "comment": "Submit one Praise of High Morals during hidden events, including at the Fountain in the Administrative District."
+        },
+        "209": {
+            "title": "Diogenes' Utopia",
+            "version": 1.0,
+            "description": "See what Belobog is famous for!",
+            "comment": "Investigate all 10 trash cans in the Administrative District."
+        },
+        "210": {
+            "title": "Insatiable",
+            "version": 1.0,
+            "description": "Sometimes, there can be too much of a good thing...",
+            "comment": "Use the Vomit Inducing Agent consumable. You can get this recipe by talking to Maxime in Boulder Town, near Natasha's clinic."
+        },
+        "211": {
+            "title": "Trashy Humor",
+            "version": 1.0,
+            "description": "One man's trash is another man's treasure",
+            "comment": "Synthesize 10 Trash consumables. Trash can be found by breaking destructable objects on Jarilo-VI."
+        },
+        "212": {
+            "title": "Saint",
+            "version": 1.0,
+            "description": "Let the Higher Existence that lives within our hearts give you a thumbs-up",
+            "comment": "Collect 20 Praises of High Morals."
+        },
+        "213": {
+            "title": "Versatile Joker",
+            "version": 1.0,
+            "description": "Use a total of 20 character(s) to form a team with Sampo and win at least 1 battle",
+            "comment": "You can borrow a variety of units from friends for this achievement."
+        },
+        "214": {
+            "title": "One Big Happy Family",
+            "version": 1.0,
+            "description": "Win 1 battle(s) with a team comprising Himeko, Welt, Dan Heng, and March 7th",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "215": {
+            "title": "Architects (And Former Architects)",
+            "version": 1.0,
+            "description": "Win 1 battle(s) with a team comprising Bronya, Gepard, Pela, and Serval",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "216": {
+            "title": "It Takes Three",
+            "version": 1.0,
+            "description": "Win a battle with a team that has 3 characters of the same Path",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "217": {
+            "title": "Match-Three",
+            "version": 1.0,
+            "description": "Win a battle with a team that has 3 characters of the same Type",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "218": {
+            "title": "Lone Wolf",
+            "version": 1.0,
+            "description": "Win 10 battles with only one character on the team",
+            "comment": "Easy to achieve in Simulated Universe World 1."
+        },
+        "219": {
+            "title": "For the Amber Lord",
+            "version": 1.0,
+            "description": "Win 10 battles with a team that has 4 characters following the Path of Preservation.",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "220": {
+            "title": "Ablution Dictum",
+            "version": 1.0,
+            "description": "Win 10 battles with a team that has 4 characters following the Path of Destruction.",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "221": {
+            "title": "The Xianzhou Alliance",
+            "version": 1.0,
+            "description": "Win 10 battles with a team that has 4 characters following the Path of The Hunt.",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "222": {
+            "title": "Meaningless Achievement",
+            "version": 1.0,
+            "description": "Win 10 battles with a team that has 4 characters following the Path of Nihility.",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "223": {
+            "title": "The Great Accord",
+            "version": 1.0,
+            "description": "Win 10 battles with a team that has 4 characters following the Path of Harmony.",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "224": {
+            "title": "Knowledge is Power",
+            "version": 1.0,
+            "description": "Win 10 battles with a team that has 4 characters following the Path of Erudition.",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "225": {
+            "title": "Miracles of Yaoshi",
+            "version": 1.0,
+            "description": "Win 10 battles with a team that has 4 characters following the Path of Abundance.",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "226": {
+            "title": "Tempestuous Suppression",
+            "version": 1.0,
+            "description": "Win 10 battles with a team that has 4 Wind-Type characters.",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "227": {
+            "title": "Fulguration Beckoner",
+            "version": 1.0,
+            "description": "Win 10 battles with a team that has 4 Lightning-Type characters.",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "228": {
+            "title": "Total Conflagration",
+            "version": 1.0,
+            "description": "Win 10 battles with a team that has 4 Fire-Type characters.",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "229": {
+            "title": "Glacier Dynast",
+            "version": 1.0,
+            "description": "Win 10 battles with a team that has 4 Ice-Type characters.",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "230": {
+            "title": "Quantum Test",
+            "version": 1.0,
+            "description": "Win 10 battles with a team that has 4 Quantum-Type characters.",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "231": {
+            "title": "Imaginary Law",
+            "version": 1.0,
+            "description": "Win 10 battles with a team that has 4 Imaginary-Type characters.",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "232": {
+            "title": "Speak with Fists",
+            "version": 1.0,
+            "description": "Win 10 battles with a team that has 4 Physical-Type characters.",
+            "comment": "You can borrow a relevant unit from a friend for this achievement."
+        },
+        "233": {
+            "title": "Hot-Blooded Trailblazer",
+            "version": 1.0,
+            "description": "Choose hot-blooded dialogue options 5 time(s)",
+            "comment": "Only dialogue during a mission counts."
+        },
+        "234": {
+            "title": "Pessimistic Trailblazer",
+            "version": 1.0,
+            "description": "Choose pessimistic dialogue options 5 time(s)",
+            "comment": "Only dialogue during a mission counts."
+        },
+        "235": {
+            "title": "Apologetic Trailblazer",
+            "version": 1.0,
+            "description": "Choose apologetic dialogue options 5 time(s)",
+            "comment": "Only dialogue during a mission counts."
+        },
+        "236": {
+            "title": "The Echoer",
+            "version": 1.0,
+            "description": "Choose repetitive dialogue options 3 time(s)",
+            "comment": "Only dialogue during a mission counts."
+        },
+        "237": {
+            "title": "Silent Trailblazer",
+            "version": 1.0,
+            "description": "Choose silent dialogue options 5 time(s)",
+            "comment": "Only dialogue during a mission counts."
+        },
+        "238": {
+            "title": "The Meaning of Choice",
+            "version": 1.0,
+            "description": "Choose gender-specific dialogue options 3 time(s)",
+            "comment": "Only dialogue during a mission counts."
+        }
     },
     "The Memories We Share": {
-
+        "239": {
+            "title": "The Sorrows of Young Arlan",
+            "version": 1.0,
+            "description": "Complete Companion Mission \"An Unexpected Turn of Events\"",
+            "comment": "Unlocked at TL12."
+        },
+        "240": {
+            "title": "Guess Who I Am",
+            "version": 1.0,
+            "description": "Complete Companion Mission \"You Already Know Me\"",
+            "comment": "Unlocked at TL22."
+        },
+        "241": {
+            "title": "The Outskirts Here Are Quiet",
+            "version": 1.0,
+            "description": "Complete Companion Mission \"Blizzard Immunity\"",
+            "comment": "Unlocked at TL20."
+        },
+        "242": {
+            "title": "The Gift of the Magi",
+            "version": 1.0,
+            "description": "Complete Companion Mission \"Hook's Gift\"",
+            "comment": "Unlocked at TL24."
+        },
+        "243": {
+            "title": "Serval's Faithfull: An Autobiography",
+            "version": 1.0,
+            "description": "Complete Companion Mission \"Only A Child\"",
+            "comment": "Unlocked at TL24."
+        },
+        "244": {
+            "title": "Clara and the Sun",
+            "version": 1.0,
+            "description": "Complete Companion Mission \"Rarely Affectionate\"",
+            "comment": "Unlocked at TL34."
+        },
+        "245": {
+            "title": "Seventeen's Map",
+            "version": 1.0,
+            "description": "Find all readable items regarding Asta in the mission \"Emptiness of Locus Silentii\"",
+            "comment": "There are 3 readable items: Talking with Afro man 5 times in the middle of Master Control Zone, westernmost room of the Storage Zone at the topmost floor, and by defeating a boss top-right of the Base Zone Space Anchor."
+        },
+        "246": {
+            "title": "Diamond and Rust",
+            "version": 1.0,
+            "description": "Give the log to Bernard in the mission, \"To: The Faint Star\"",
+            "comment": "Unlocked at TL13."
+        },
+        "247": {
+            "title": "Farewell, Comet Hunter",
+            "version": 1.0,
+            "description": "Collect three \"Letters From the Comet Hunter\" in the mission \"Out of Reach\""
+        },
+        "248": {
+            "title": "Does She Walk Alone?",
+            "version": 1.0,
+            "description": "Complete the mission \"Guide Paradox\" and witness the android's ending"
+        },
+        "249": {
+            "title": "Close Encounters of the Sixth Kind",
+            "version": 1.0,
+            "description": "Obtain the ability to communicate with Wubbabboos in the mission \"Requiem Mass\"",
+            "comment": "Unlocked at TL23."
+        },
+        "250": {
+            "title": "Disposable",
+            "version": 1.0,
+            "description": "Find and talk to all Herta puppets in the space station",
+            "comment": "There are 6 dolls."
+        },
+        "251": {
+            "title": "When Breath Becomes Air",
+            "version": 1.0,
+            "description": "Visit the researcher Eikura Shuu's memorial",
+            "comment": "The memorial is found at the Westernmost room of the Storage Zone, at the topmost floor."
+        },
+        "252": {
+            "title": "Bzzt! Clock Out!",
+            "version": 1.0,
+            "description": "Turn off the little robots in the space station 6 times"
+        },
+        "253": {
+            "title": "Door to A New World",
+            "version": 1.0,
+            "description": "Use the Curio \"Door to A New World\"",
+            "comment": "Locate the \"Toilet\" object in Supply Zone and use it."
+        },
+        "254": {
+            "title": "Just A Number",
+            "version": 1.0,
+            "description": "Use the Curio \"Rating Pistol\"",
+            "comment": "Go to Storage Zone F1 bottom right room and interact with an object there."
+        },
+        "255": {
+            "title": "No King Rules Forever",
+            "version": 1.0,
+            "description": "Use the Curio \"Unbearable Weight\" and decipher the contents of the mysterious sound",
+            "comment": "Investigate a mysterious voice in the Storage Zone F2 top right room, then go to Storage Zone F1 top right room and investigate the Curio."
+        },
+        "256": {
+            "title": "Green Thumb",
+            "version": 1.0,
+            "description": "Talk with the strange plant and visit it again on the next day",
+            "comment": "The plant is on the second floor of Base Zone, at the far end. Interact with it again 1 day later."
+        },
+        "257": {
+            "title": "Greed Psychology",
+            "version": 1.0,
+            "description": "Obtain the real treasure in the mission \"Survival Wisdom\""
+        },
+        "258": {
+            "title": "One Day More",
+            "version": 1.0,
+            "description": "Find all of Julian's items in the mission \"Hook's Treasure\""
+        },
+        "259": {
+            "title": "Moral Higher Ground",
+            "version": 1.0,
+            "description": "Confront the Public Property Protector and show him the cost of stopping you (or have him humbly acknowledge his wrongdoing.)",
+            "comment": "Break a barrel on the east side of Silvermane Guard Restricted Zone and he may appear. Apologize to receive a Praise of High Morals."
+        },
+        "260": {
+            "title": "For a Breath I Tarry",
+            "version": 1.0,
+            "description": "Choose to format Little Robot in the mission \"Rarely Affectionate (Part 2)\"",
+            "comment": "You can only get one of two achievements from the Little Robot. Unlocks at TL34."
+        },
+        "261": {
+            "title": "The Lifecycle of Software Objects",
+            "version": 1.0,
+            "description": "Choose to format Little Robot in the mission \"Rarely Affectionate (Part 2)\"",
+            "comment": "You can only get one of two achievements from the Little Robot. Unlocks at TL34."
+        },
+        "262": {
+            "title": "Outworlder",
+            "version": 1.0,
+            "description": "Return the music box found in Rivet Town to its heartbroken owner",
+            "comment": "Once you have obtained \"Dirty Ribbon Tied to a Bell\", give it to the female voice from window at the north entrance to Rivet Town. Investigate again to get a \"Damaged Music Box\". Submit this box to the Anxious Woman in the alleyway southeast of Rivet Town."
+        },
+        "263": {
+            "title": "50 Credits!?",
+            "version": 1.0,
+            "description": "Collect all wanted posters of the Express Crew in Belobog",
+            "comment": "There are 7 wanted posters located in Administrative District."
+        },
+        "264": {
+            "title": "Twinkly, Winkly",
+            "version": 1.0,
+            "description": "Obtain 3 Ancient Coin(s)",
+            "comment": "Found in destructible objects on Jarilo-VI, can also be obtained randomly from the Fountain in Administrative District."
+        },
+        "265": {
+            "title": "Sweet Pom-Pom O'Mine",
+            "version": 1.0,
+            "description": "Try to give the Jarilo-VI's armillary sphere a spin to find... um... Pom-Pom on it?",
+            "comment": "Investigate the Armillary Sphere near Bronya's desk in Qlipoth Fort. Pick \"what is in the northwest\"."
+        },
+        "266": {
+            "title": "Hurt Locker",
+            "version": 1.0,
+            "description": "Solve the crisis at the Belobog cable car station while also avoiding ethical risks",
+            "comment": "Interact with a ticking suitcase near cable car in Administrative District. You may need a Praise of High Morals."
+        },
+        "267": {
+            "title": "Labor Omnia Vincit",
+            "version": 1.0,
+            "description": "Examine file cabinets in the Seat of Divine Foresight 7 time(s)"
+        },
+        "268": {
+            "title": "Dance Like A Butterfly, Sting Like A Bee",
+            "version": 1.0,
+            "description": "Dominate all 5 tournaments in the Boulder Town Super League"
+        },
+        "269": {
+            "title": "Where It All Began",
+            "version": 1.0,
+            "description": "Return to the room where the Stellaron was kept and recall a blurred memory",
+            "comment": "Go to the Storage Zone F1 bottom-right (fast travel to Gallery of Shadow)."
+        },
+        "270": {
+            "title": "Knight in Shining Armor",
+            "version": 1.0,
+            "description": "Find the language model and give it to Fidora the amateur mechanic",
+            "comment": "Buy the Language Module from Ronald in Administrative District, and give it to Fidora near the Goethe Grand Hotel."
+        },
+        "271": {
+            "title": "Honest Abe",
+            "version": 1.0,
+            "description": "Pass the test of integrity set up by a mysterious researcher",
+            "comment": "Go to Storage Zone F2's Special Purpose Lab and interact with giant square in the center. Purposely lie three times here to possibly unlock another achievement \"The Echoer\", and then finally pick the 3rd option. This is an un-missable achievement."
+        },
+        "272": {
+            "title": "The Mandela Effect",
+            "version": 1.0,
+            "description": "Contact Belobog's \"back alley\"",
+            "comment": "Interact with the man behind a locked gate in the Administrative District, past Tamila, four times. Exit and re-enter this map for the man to re-appear after every interaction."
+        },
+        "273": {
+            "title": "Natural Immunity",
+            "version": 1.0,
+            "description": "Obtain the recipe for fried rice from talking with Gertie at the Goethe Grand Hotel"        
+        },
+        "274": {
+            "title": "Lā Lá Lǎ Là Land",
+            "version": 1.0,
+            "description": "Obtain the score for the phonograph from talking with Tamila at the Golden Theater"        
+        },
+        "275": {
+            "title": "Winter City Trap",
+            "version": 1.0,
+            "description": "Finish listening to the vagrant's rap",
+            "comment": "Located on Jarilo-VI, Robot Settlement, Vagrant Camp."
+        },
+        "276": {
+            "title": "For Ages 12 and Up",
+            "version": 1.0,
+            "description": "Participate in the Dark Fist Tournament and become the ultimate winner",
+            "comment": "Obtain the Dark Fist Tournament Invitation Letter in the Fight Club, then talk to the mysterious kid right outside and win against them. You're guaranteed to win 2/3 regardless of the choices you make."
+        },
+        "277": {
+            "title": "The Kelly Gang",
+            "version": 1.0,
+            "description": "Excavate the treasure hidden in the Belobog Administrative District's fountain",
+            "comment": "Interact with the Fountain in the Administrative District and submit 1 Praise of High Morals."
+        },
+        "278": {
+            "title": "The Banality of Evil",
+            "version": 1.0,
+            "description": "Excavate the treasure hidden in the Belobog Administrative District's fountain",
+            "comment": "Finish all the Fool's Box puzzles in the mission \"Vessel of Mediocrity\"."
+        },
+        "279": {
+            "title": "The Fourth Little Mole",
+            "version": 1.0,
+            "description": "Find all the hidden treasure in the Mission \"The Adventurous Moles\"",
+            "comment": "Unlocked at TL24."
+        },
+        "280": {
+            "title": "The Adventurous Moles Super Grown-Up Edition",
+            "version": 1.0,
+            "description": "Buy The Adventurous Moles: Hidden Treasure from the Belobog Book Merchant",
+            "comment": "Achievement does not exist / is bugged / may need additional information."
+        },
+        "281": {
+            "title": "A Simple Life",
+            "version": 1.0,
+            "description": "Receive a text from Luhui after completing the mission \"Fired\"",
+            "comment": "Last quest unlocks at TL30."
+        },
+        "282": {
+            "title": "Carpe Diem, Festina Lente, and Tempus Fugit",
+            "version": 1.0,
+            "description": "Receive all the texts about Chengjie's fasding passion after completing the mission \"A Teacher and a Friend\".",
+            "comment": "Last quest unlocks at TL36."
+        },
+        "283": {
+            "title": "Tootsie",
+            "version": 1.0,
+            "description": "Choose to have the Foxian Beauty reveal their true identity during the mission \"From Xianzhou With Love\"",
+            "comment": "You can only get one of the three achievements from Foxian Beauty. Quest unlocks at TL38."
+        },
+        "284": {
+            "title": "Cyber Fraud",
+            "version": 1.0,
+            "description": "Choose to have the Foxian Beauty turn themselves in during the mission \"From Xianzhou With Love\"",
+            "comment": "You can only get one of the three achievements from Foxian Beauty. Quest unlocks at TL38."
+        },
+        "285": {
+            "title": "A Secret Makes a Woman, Woman.",
+            "version": 1.0,
+            "description": "Choose to let the Foxian Beauty continue the ruse during the mission \"From Xianzhou With Love\"",
+            "comment": "You can only get one of the three achievements from Foxian Beauty. Quest unlocks at TL38."
+        },
+        "286": {
+            "title": "Fair and Square",
+            "version": 1.0,
+            "description": "Win the Xianzhou Luofu Competitive Eater Championship openly and fairly",
+            "comment": "You can only get one of the three achievements from Xianzhou Luofu Competitive Eater Championship."
+        },
+        "287": {
+            "title": "All Is Fair in Love and War",
+            "version": 1.0,
+            "description": "Win the Xianzhou Luofu Competitive Eater Championship in underhanded ways",
+            "comment": "You can only get one of the three achievements from Xianzhou Luofu Competitive Eater Championship."
+        },
+        "288": {
+            "title": "From Hero to Zero",
+            "version": 1.0,
+            "description": "Lose the Xianzhou Luofu Competitive Eater Championship",
+            "comment": "You can only get one of the three achievements from Xianzhou Luofu Competitive Eater Championship."
+        },
+        "289": {
+            "title": "Far From the Madding Crowd",
+            "version": 1.0,
+            "description": "Talk with the Immortal in a Vase and obtain its gift from the vase",
+            "comment": "You can only get one of two achievements from the Immortal in a Vase. Find it North of the Exalting Sanctum and attack it to trigger dialogue. Come back a day later to get achievement."
+        },
+        "290": {
+            "title": "Let the Wind Blow Where It May",
+            "version": 1.0,
+            "description": "Talk with the Immortal in a Vase and refuse its gift",
+            "comment": "You can only get one of two achievements from the Immortal in a Vase. Find it North of the Exalting Sanctum and attack it to trigger dialogue. Come back a day later to get achievement."
+        },
+        "291": {
+            "title": "Hasta la vista, Hexanexus!",
+            "version": 1.0,
+            "description": "Complete 15 Hexanexus challenge(s) from the Hex Club"
+        },
+        "292": {
+            "title": "Rubik's Headache",
+            "version": 1.0,
+            "description": "Complete 15 new Hexanexus challenge(s) from the Hex Club",
+            "comment": "Unlocked after completing the previous 15."
+        },
+        "293": {
+            "title": "The Crimes That Bind",
+            "version": 1.0,
+            "description": "Stop the strange tourist from throwing a coin into the starskiff engine",
+            "comment": "You can only get one of two achievements from strange tourist throwing coin. Talk to a tourist top left of Central Starskiff Haven."
+        },
+        "294": {
+            "title": "Flight Cancelled",
+            "version": 1.0,
+            "description": "Help the strange tourist to throw a coin into the starskiff engine",
+            "comment": "You can only get one of two achievements from strange tourist throwing coin. Talk to a tourist top left of Central Starskiff Haven."
+        },
+        "295": {
+            "title": "Lost and Found",
+            "version": 1.0,
+            "description": "Retrieved the credits that the fraudster took",
+            "comment": "You can only get one of three achievements from the fraudster. Fraudster mini quest begins by talking to a Weapon next to a wall in Central Stafskiff Haven."
+        },
+        "296": {
+            "title": "Leave It There",
+            "version": 1.0,
+            "description": "Did not retrieve the credits that the fraudster took",
+            "comment": "You can only get one of three achievements from the fraudster. Fraudster mini quest begins by talking to a Weapon next to a wall in Central Stafskiff Haven."
+        },
+        "297": {
+            "title": "Have Your Cake and Eat It",
+            "version": 1.0,
+            "description": "Retrieved more credits from the fraudster than what they took",
+            "comment": "You can only get one of three achievements from the fraudster. Fraudster mini quest begins by talking to a Weapon next to a wall in Central Stafskiff Haven."
+        },
+        "298": {
+            "title": "Seven Birds in the Hand Is Worth A Thousand in the Bush",
+            "version": 1.0,
+            "description": "Help Heron Express to recover all lost cycranes",
+            "comment": "There are 7 cycranes. Start by speaking to the depressed cycrane in Central Starskiff Haven."
+        },
+        "299": {
+            "title": "The Seven Errors of Cycranes: Sloth",
+            "version": 1.0,
+            "description": "Convince the depressed cycrane to return to its job",
+            "comment": "Located top-right in Central Starskiff Haven."
+        },
+        "300": {
+            "title": "The Seven Errors of Cycranes: Lust",
+            "version": 1.0,
+            "description": "Follow the gentlemanly cycrane to find the picture book withheld by customs",
+            "comment": "Located at the very bottom of Cloudford F1."
+        },
+        "301": {
+            "title": "The Seven Errors of Cycranes: Gluttony",
+            "version": 1.0,
+            "description": "Complete a bet with the dissatisfied cycrane",
+            "comment": "Located by the Grocery Store Owner in Central Starskiff Haven."
+        },
+        "302": {
+            "title": "The Seven Errors of Cycranes: Greed",
+            "version": 1.0,
+            "description": "Explore the \"mountain of deliveries\" protected by the \"evil dragon\"",
+            "comment": "Located at the very top of Cloudford F1."
+        },
+        "303": {
+            "title": "The Seven Errors of Cycranes: Envy",
+            "version": 1.0,
+            "description": "Complete the challenge from the resentful cycrane",
+            "comment": "Located east of the Earthrise Agora space anchor in Central Starskiff Haven. Find it by walking along the path it gave you (even though it's wrong), and you'll find it resting next to a Palace."
+        },
+        "304": {
+            "title": "The Seven Errors of Cycranes: Wrath",
+            "version": 1.0,
+            "description": "Defeat the highwaymen with the brave cycrane",
+            "comment": "Located a little bit south-west of Burgeoning Space Anchor in Stargazer Navalia."
+        },
+        "305": {
+            "title": "The Seven Errors of Cycranes: Pride",
+            "version": 1.0,
+            "description": "Complete the challenge from the \"Four Great Villains of the Luofu (Self-Proclaimed)\"",
+            "comment": "Located east of Realm-Keeping Commission Chancery in Exalting Sanctum, with two kids."
+        }
     },
     "Fathom the Unfathomable": {
-
+        "306": {
+            "title": "Until the Light Takes Us",
+            "version": 1.0,
+            "description": "Activate 5 Space Anchors in the Herta Space Station"
+        },
+        "307": {
+            "title": "Unopen World",
+            "version": 1.0,
+            "description": "Activate 14 Space Anchors in Belobog"
+        },
+        "308": {
+            "title": "Where the Celestial Path May Lead",
+            "version": 1.0,
+            "description": "Activate 10 Space Anchors on the Xianzhou Luofu"
+        },
+        "309": {
+            "title": "Proper Role-Playing Gamer",
+            "version": 1.0,
+            "description": "Open Treasures 30 times on the Herta Space Station"
+        },
+        "310": {
+            "title": "But at What Cost?",
+            "version": 1.0,
+            "description": "Open Treasures 110 times in Belobog"
+        },
+        "311": {
+            "title": "A Drop in the Bucket",
+            "version": 1.0,
+            "description": "Open Treasures 100 time(s) on the Xianzhou Luofu"
+        },
+        "312": {
+            "title": "Destructive Impulse",
+            "version": 1.0,
+            "description": "Destroy 100 destructible objects"
+        },
+        "313": {
+            "title": "Free Will of Destruction",
+            "version": 1.0,
+            "description": "Destroy 1,000 destructible objects"
+        },
+        "314": {
+            "title": "Take by Surprise",
+            "version": 1.0,
+            "description": "Enter combat with attacks of corresponding Types for 100 time(s)"
+        },
+        "315": {
+            "title": "The Tertiary Power",
+            "version": 1.0,
+            "description": "Use Technique 50 time(s)"
+        },
+        "316": {
+            "title": "The Tertiary Dimension",
+            "version": 1.0,
+            "description": "Use Technique 300 time(s)"
+        },
+        "317": {
+            "title": "Dissertation Proposal",
+            "version": 1.0,
+            "description": "Collect 10 readable item(s) in the Herta Space Station"
+        },
+        "318": {
+            "title": "Literature Review",
+            "version": 1.0,
+            "description": "Collect 50 readable item(s) in the Herta Space Station"
+        },
+        "319": {
+            "title": "Non-pulp Fiction",
+            "version": 1.0,
+            "description": "Collect 20 readable item(s) in Belobog"
+        },
+        "320": {
+            "title": "Everwinter City's Resident Historian",
+            "version": 1.0,
+            "description": "Collect 80 readable item(s) in Belobog"
+        },
+        "321": {
+            "title": "Glued to Books",
+            "version": 1.0,
+            "description": "Collect 30 readable items from the Xianzhou Luofu"
+        },
+        "322": {
+            "title": "Learned in All Things",
+            "version": 1.0,
+            "description": "Collect 80 readable items from the Xianzhou Luofu"
+        },
+        "323": {
+            "title": "Red-Name Alert",
+            "version": 1.0,
+            "description": "Complete the Formidable Foe Challenge 5 time(s)"
+        },
+        "324": {
+            "title": "High-Level Domination",
+            "version": 1.0,
+            "description": "Complete the Formidable Foe Challenge 15 time(s)"
+        },
+        "325": {
+            "title": "Inter-Domain Roaming",
+            "version": 1.0,
+            "description": "Complete Warring Expedition 1 time(s)"
+        },
+        "326": {
+            "title": "You Want Me to Raid Without Achievements?",
+            "version": 1.0,
+            "description": "Complete Warring Expedition 9 time(s)",
+            "comment": "You can repeat any difficulty mission in the Silvermane Guard Restricted Zone (An Eye for an Eye or Winter Soldiers' March) for this achievement."
+        },
+        "327": {
+            "title": "Tindalos Piggy",
+            "version": 1.0,
+            "description": "Capture Warp Trotter 1 time(s)"
+        },
+        "328": {
+            "title": "Phase ATM",
+            "version": 1.0,
+            "description": "Capture Warp Trotter 10 time(s)"
+        },
+        "329": {
+            "title": "Unearthly Marvel",
+            "version": 1.0,
+            "description": "Find all of the Unearthly Marvel treasures"
+        },
+        "330": {
+            "title": "The Seven-Bridges Problem",
+            "version": 1.0,
+            "description": "Find all repulsion bridge treasures"
+        },
+        "331": {
+            "title": "The Birth of Tragedy",
+            "version": 1.0,
+            "description": "Find all of The Fool's Box treasures"
+        },
+        "332": {
+            "title": "Sisyphus of the Mines",
+            "version": 1.0,
+            "description": "Complete the final Mine Cart Test"
+        },
+        "333": {
+            "title": "The Tale of Moles",
+            "version": 1.0,
+            "description": "Collect all of \"The Adventurous Moles\""
+        },
+        "334": {
+            "title": "Red to Red and White to White",
+            "version": 1.0,
+            "description": "Complete Magflow Link 10 time(s)"
+        },
+        "335": {
+            "title": "Don't You Dare Waste It",
+            "version": 1.0,
+            "description": "Get Jim Roger Bread Soda from a trash can",
+            "comment": "Located in the Administrative District."
+        },
+        "336": {
+            "title": "A Metaphor of Caves",
+            "version": 1.0,
+            "description": "Complete the Hexanexus 30 time(s)"
+        },
+        "337": {
+            "title": "North by Northwest",
+            "version": 1.0,
+            "description": "Complete the Formation-Breaking Compass 20 time(s)"
+        },
+        "338": {
+            "title": "Can't See Behind",
+            "version": 1.0,
+            "description": "Ambushed during exploration"
+        },
+        "339": {
+            "title": "Sensory Socialization",
+            "version": 1.0,
+            "description": "Collect all Memory Bubbles scattered on the Herta Space Station",
+            "comment": "There are 20 memory bubbles."
+        }
     }
 }
