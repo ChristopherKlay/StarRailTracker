@@ -19,8 +19,6 @@ function createEntries(data) {
 		localStorage.setItem("userdata", "")
 	}
 
-	console.log(data)
-
 	for (var cat in data) {
 		// Create sections
 		var section = document.createElement("section");
@@ -35,6 +33,7 @@ function createEntries(data) {
 		// Progress Bar
 		var progress = document.createElement('div')
 		progress.className = 'progress'
+		progress.setAttribute("entries", Object.keys(data[cat]).length)
 		header.append(progress)
 		section.append(header)
 
@@ -90,6 +89,9 @@ function createEntries(data) {
 
 			// Append generated entry
 			section.append(entry);
+
+			// Trigger progress update
+			updateProgress()
 		}
 	}
 }
@@ -109,4 +111,44 @@ function syncStorage(id) {
 
 	// Push to storage
 	localStorage.setItem("userdata", storage.toString())
+
+	// Trigger progress update
+	updateProgress()
+}
+
+function updateProgress() {
+	// Update section counters based on checked items
+	var counters = document.getElementsByClassName('progress')
+	for (var i = 0; i < counters.length; i++) {
+		var checked = counters[i].parentElement.parentElement.querySelectorAll('.entry[checked]').length || 0
+		counters[i].textContent = '(' + checked + '/' + counters[i].getAttribute('entries') + ')'
+	}
+}
+
+function filterSearch(key) {
+	var entryList = document.getElementsByClassName('entry')
+	if (key.value != '') {
+		for (var i = 0; i < entryList.length; i++) {
+			// Get context data
+			if (isNaN(key.value)) {
+				// Check by title/description
+				key.value = key.value.toLowerCase()
+				var checkData = entryList[i].getElementsByClassName('title')[0].textContent.toLowerCase() +
+					entryList[i].getElementsByClassName('description')[0].textContent.toLowerCase()
+			} else {
+				// Check by version
+				checkData = entryList[i].getElementsByClassName('version')[0].textContent
+			}
+			// Filter entries
+			if (checkData.includes(key.value)) {
+				entryList[i].style.display = ''
+			} else {
+				entryList[i].style.display = 'none'
+			}
+		}
+	} else {
+		for (var i = 0; i < entryList.length; i++) {
+			entryList[i].style.display = ''
+		}
+	}
 }
