@@ -30,7 +30,7 @@ function createEntries(data) {
 		header.className = "header"
 		header.textContent = cat
 
-		// Progress Bar
+		// -> Progress
 		var progress = document.createElement('div')
 		progress.className = 'progress'
 		progress.setAttribute("entries", Object.keys(data[cat]).length)
@@ -39,6 +39,7 @@ function createEntries(data) {
 
 		// Create entries
 		for (var ent in data[cat]) {
+			// Create entry
 			var entry = document.createElement("div");
 			entry.className = "entry";
 			entry.setAttribute("achievement", ent)
@@ -132,7 +133,7 @@ function filterSearch(key) {
 			// Get context data
 			if (isNaN(key.value)) {
 				// Check by title/description
-				key.value = key.value.toLowerCase()
+				var checkKey = key.value.toLowerCase()
 				var checkData = entryList[i].getElementsByClassName('title')[0].textContent.toLowerCase() +
 					entryList[i].getElementsByClassName('description')[0].textContent.toLowerCase()
 			} else {
@@ -140,7 +141,7 @@ function filterSearch(key) {
 				checkData = entryList[i].getElementsByClassName('version')[0].textContent
 			}
 			// Filter entries
-			if (checkData.includes(key.value)) {
+			if (checkData.includes(checkKey)) {
 				entryList[i].style.display = ''
 			} else {
 				entryList[i].style.display = 'none'
