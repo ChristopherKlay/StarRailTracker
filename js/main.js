@@ -3,9 +3,7 @@ loadAchievements();
 
 // Fetch database
 function loadAchievements() {
-	fetch(
-			"https://raw.githubusercontent.com/ChristopherKlay/StarRailTracker/main/import/achievements.json"
-		)
+	fetch("https://raw.githubusercontent.com/ChristopherKlay/StarRailTracker/main/import/achievements.json")
 		.then((response) => response.json())
 		.then((data) => createEntries(data));
 }
@@ -21,6 +19,8 @@ function createEntries(data) {
 		localStorage.setItem("userdata", "")
 	}
 
+	console.log(data)
+
 	for (var cat in data) {
 		// Create sections
 		var section = document.createElement("section");
@@ -31,6 +31,11 @@ function createEntries(data) {
 		var header = document.createElement("header")
 		header.className = "header"
 		header.textContent = cat
+
+		// Progress Bar
+		var progress = document.createElement('div')
+		progress.className = 'progress'
+		header.append(progress)
 		section.append(header)
 
 		// Create entries
@@ -79,7 +84,8 @@ function createEntries(data) {
 			// Version
 			var version = document.createElement("div");
 			version.className = "version";
-			version.textContent = data[cat][ent].version;
+			version.title = "Available since Version " + data[cat][ent].version.toFixed(1)
+			version.textContent = data[cat][ent].version.toFixed(1);
 			entry.append(version);
 
 			// Append generated entry
