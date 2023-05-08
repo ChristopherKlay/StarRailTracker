@@ -1727,6 +1727,7 @@
         },
         "e64f47b70ab848e2fa5a2931a57cd955df3d63b5": {
             "title": "For a Breath I Tarry",
+            "group": "4ca6356bd9834b94fec464bd2b92d1711e4e012f",
             "version": 1.0,
             "description": "Choose to format Little Robot in the mission \"Rarely Affectionate (Part 2)\"",
             "comment": "You can only get one of two achievements from the Little Robot. Unlocks at TL34.",
@@ -1734,6 +1735,7 @@
         },
         "32df6d01c69d67dec55fb36bf6bbab79f49a296d": {
             "title": "The Lifecycle of Software Objects",
+            "group": "4ca6356bd9834b94fec464bd2b92d1711e4e012f",
             "version": 1.0,
             "description": "Choose to format Little Robot in the mission \"Rarely Affectionate (Part 2)\"",
             "comment": "You can only get one of two achievements from the Little Robot. Unlocks at TL34.",
@@ -1885,6 +1887,7 @@
         },
         "c2680ef3e7502b7ff091d5043a34a9efe3a7c375": {
             "title": "Tootsie",
+            "group": "8f5d4d61d0fe5e54f82e9b8c8601d42a8b27c8ae",
             "version": 1.0,
             "description": "Choose to have the Foxian Beauty reveal their true identity during the mission \"From Xianzhou With Love\"",
             "comment": "You can only get one of the three achievements from Foxian Beauty. Quest unlocks at TL38.",
@@ -1892,6 +1895,7 @@
         },
         "598e4edd7267643d9a16bd8196b107dfc99122ff": {
             "title": "Cyber Fraud",
+            "group": "8f5d4d61d0fe5e54f82e9b8c8601d42a8b27c8ae",
             "version": 1.0,
             "description": "Choose to have the Foxian Beauty turn themselves in during the mission \"From Xianzhou With Love\"",
             "comment": "You can only get one of the three achievements from Foxian Beauty. Quest unlocks at TL38.",
@@ -1899,6 +1903,7 @@
         },
         "ad344007d43405ae27c9c39c414bd160377c98e3": {
             "title": "A Secret Makes a Woman, Woman.",
+            "group": "8f5d4d61d0fe5e54f82e9b8c8601d42a8b27c8ae",
             "version": 1.0,
             "description": "Choose to let the Foxian Beauty continue the ruse during the mission \"From Xianzhou With Love\"",
             "comment": "You can only get one of the three achievements from Foxian Beauty. Quest unlocks at TL38.",
@@ -1906,6 +1911,7 @@
         },
         "e9f9c1a34b89ceffe0f4cd58209f9770dcab7381": {
             "title": "Fair and Square",
+            "group": "48914ca2357b8e6737ef77fcc57f54726fe49a23",
             "version": 1.0,
             "description": "Win the Xianzhou Luofu Competitive Eater Championship openly and fairly",
             "comment": "You can only get one of the three achievements from Xianzhou Luofu Competitive Eater Championship.",
@@ -1913,6 +1919,7 @@
         },
         "b1c56932aa8460ff29f02745fb7949af5d7523da": {
             "title": "All Is Fair in Love and War",
+            "group": "48914ca2357b8e6737ef77fcc57f54726fe49a23",
             "version": 1.0,
             "description": "Win the Xianzhou Luofu Competitive Eater Championship in underhanded ways",
             "comment": "You can only get one of the three achievements from Xianzhou Luofu Competitive Eater Championship.",
@@ -1920,6 +1927,7 @@
         },
         "27229291cf833e35f387882cf8b9b2a3980e698e": {
             "title": "From Hero to Zero",
+            "group": "48914ca2357b8e6737ef77fcc57f54726fe49a23",
             "version": 1.0,
             "description": "Lose the Xianzhou Luofu Competitive Eater Championship",
             "comment": "You can only get one of the three achievements from Xianzhou Luofu Competitive Eater Championship.",
@@ -1927,6 +1935,7 @@
         },
         "c549b22a0352b445c19a2abcd58564608cdb7438": {
             "title": "Far From the Madding Crowd",
+            "group": "cb37e9f7e865c58b659e7c2dd31e14aec50a61fd",
             "version": 1.0,
             "description": "Talk with the Immortal in a Vase and obtain its gift from the vase",
             "comment": "You can only get one of two achievements from the Immortal in a Vase. Find it North of the Exalting Sanctum and attack it to trigger dialogue. Come back a day later to get the achievement.",
@@ -1934,6 +1943,7 @@
         },
         "77e9335e20eb7a9bb82f96b98921c92b77b31d2d": {
             "title": "Let the Wind Blow Where It May",
+            "group": "cb37e9f7e865c58b659e7c2dd31e14aec50a61fd",
             "version": 1.0,
             "description": "Talk with the Immortal in a Vase and refuse its gift",
             "comment": "You can only get one of two achievements from the Immortal in a Vase. Find it North of the Exalting Sanctum and attack it to trigger dialogue. Come back a day later to get the achievement.",
@@ -1954,6 +1964,7 @@
         },
         "85f399e250bc98ce6cf65b9af2a832b1358770bb": {
             "title": "The Crimes That Bind",
+            "group": "1218049e379e2b46a6604a1a11233b7923a4e6f1",
             "version": 1.0,
             "description": "Stop the strange tourist from throwing a coin into the starskiff engine",
             "comment": "You can only get one of two achievements from strange tourist throwing coin. Talk to a tourist top left of Central Starskiff Haven.",
@@ -1961,6 +1972,7 @@
         },
         "8e144748500cad9505e443d15cf18e6354e00495": {
             "title": "Flight Cancelled",
+            "group": "1218049e379e2b46a6604a1a11233b7923a4e6f1",
             "version": 1.0,
             "description": "Help the strange tourist to throw a coin into the starskiff engine",
             "comment": "You can only get one of two achievements from strange tourist throwing coin. Talk to a tourist top left of Central Starskiff Haven.",
@@ -1968,6 +1980,7 @@
         },
         "01bbda5c3c729ef8444910fdeda58dcddd880699": {
             "title": "Lost and Found",
+            "group": "a8a7e0d8acdd3e55dbf71063e2d2884005b19227",
             "version": 1.0,
             "description": "Retrieved the credits that the fraudster took",
             "comment": "You can only get one of three achievements from the fraudster. Fraudster mini quest begins by talking to a Weapon next to a wall in Central Stafskiff Haven.",
@@ -1975,6 +1988,7 @@
         },
         "dea574923efb4fcc89fc861d8ce22cc906df15c4": {
             "title": "Leave It There",
+            "group": "a8a7e0d8acdd3e55dbf71063e2d2884005b19227",
             "version": 1.0,
             "description": "Did not retrieve the credits that the fraudster took",
             "comment": "You can only get one of three achievements from the fraudster. Fraudster mini quest begins by talking to a Weapon next to a wall in Central Stafskiff Haven.",
@@ -1982,6 +1996,7 @@
         },
         "689dfcddb983ee24dd9f5329d2b71770190eaf54": {
             "title": "Have Your Cake and Eat It",
+            "group": "a8a7e0d8acdd3e55dbf71063e2d2884005b19227",
             "version": 1.0,
             "description": "Retrieved more credits from the fraudster than what they took",
             "comment": "You can only get one of three achievements from the fraudster. Fraudster mini quest begins by talking to a Weapon next to a wall in Central Stafskiff Haven.",
