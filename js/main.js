@@ -29,11 +29,13 @@ function createEntries(data) {
 		var header = document.createElement("header")
 		header.className = "header"
 		header.textContent = cat
+		header.addEventListener("click", function () {
+			this.parentElement.toggleAttribute("collapsed")
+		});
 
 		// -> Progress
 		var progress = document.createElement('div')
 		progress.className = 'progress'
-		progress.setAttribute("entries", Object.keys(data[cat]).length)
 		header.append(progress)
 		section.append(header)
 
@@ -76,10 +78,19 @@ function createEntries(data) {
 				var comment = document.createElement('div')
 				comment.className = "comment"
 				comment.textContent = data[cat][ent].comment
+				if (data[cat][ent].bugged) {
+					comment.setAttribute('bugged', '')
+				}
 				description.append(comment)
 			}
 
 			entry.append(description);
+
+			// Jade Reward
+			var jades = document.createElement('div')
+			jades.className = 'jades'
+			jades.textContent = data[cat][ent].jades || '??'
+			entry.append(jades)
 
 			// Version
 			var version = document.createElement("div");
@@ -118,16 +129,23 @@ function syncStorage(id) {
 }
 
 function updateProgress() {
-	// Update section counters based on checked items
+	// Update progress counters
 	var counters = document.getElementsByClassName('progress')
 	for (var i = 0; i < counters.length; i++) {
-		var checked = counters[i].parentElement.parentElement.querySelectorAll('.entry[checked]').length || 0
-		counters[i].textContent = '(' + checked + '/' + counters[i].getAttribute('entries') + ')'
+		var cat = counters[i].parentElement.parentElement
+
+		// Progress
+		var entryChecked = cat.querySelectorAll('.entry[checked]').length || 0
+		var entryTotal = cat.querySelectorAll('.entry').length
+
+		counters[i].textContent = '(' + entryChecked + '/' + entryTotal + ')'
 	}
 }
 
 function filterSearch(key) {
 	var entryList = document.getElementsByClassName('entry')
+	var catList = document.getElementsByClassName('category')
+
 	if (key.value != '') {
 		for (var i = 0; i < entryList.length; i++) {
 			// Get context data
@@ -140,14 +158,21 @@ function filterSearch(key) {
 				// Check by version
 				checkData = entryList[i].getElementsByClassName('version')[0].textContent
 			}
+
 			// Filter entries
 			if (checkData.includes(checkKey)) {
 				entryList[i].style.display = ''
+				entryList[i].parentElement.setAttribute("searchable", "")
 			} else {
 				entryList[i].style.display = 'none'
 			}
 		}
 	} else {
+		// Remove searchable tags
+		for (var i = 0; i < catList.length; i++) {
+			catList[i].removeAttribute("searchable")
+		}
+
 		for (var i = 0; i < entryList.length; i++) {
 			entryList[i].style.display = ''
 		}

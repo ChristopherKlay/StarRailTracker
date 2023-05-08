@@ -1866,7 +1866,8 @@
             "version": 1.0,
             "description": "Buy The Adventurous Moles: Hidden Treasure from the Belobog Book Merchant",
             "comment": "Achievement does not exist / is bugged / may need additional information.",
-            "jades": 5
+            "jades": 5,
+            "bugged": true
         },
         "a6c28afdc74d8fc0efb271be79646a0df6e5635a": {
             "title": "A Simple Life",
