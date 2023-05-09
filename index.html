@@ -11,7 +11,11 @@
 
 <body>
   <div id="header">
-    <input class="search" type="text" placeholder="Search by title/description/version.." onkeyup="filterSearch(this)">
+    <div id="nav">
+      <input class="search" type="text" placeholder="Search by title/description/version.."
+        onkeyup="filterSearch(this)">
+      <div class="filter" onclick="toggleFilter(this)">Show: All</div>
+    </div>
     <img class="logo" src="media/logo.png">
   </div>
   <script src="js/main.js"></script>

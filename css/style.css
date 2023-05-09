@@ -20,15 +20,20 @@ body {
 	margin-left: auto;
 }
 
-.search {
-	box-sizing: border-box;
+#nav {
+	display: flex;
 	width: 100%;
-	max-width: 400px;
+	margin-bottom: 0.5em;
+}
+
+.search {
+	flex-grow: 1;
+	box-sizing: border-box;
 	height: 2em;
+	max-width: 400px;
 	font-size: 1em;
-	letter-spacing: 0.002em;
-	margin: 1em 0;
 	padding: 0 0 0 0.5em;
+	margin-right: 0.5em;
 	border: none;
 	background: rgb(26, 29, 35);
 	color: #fff;
@@ -38,18 +43,33 @@ body {
 	outline: none;
 }
 
+.filter {
+	content: 'Show: All';
+	height: 2em;
+	line-height: 2em;
+	background: rgb(26, 29, 35);
+	color: #fff;
+	padding: 0 0.5em;
+	font-weight: 100;
+	cursor: pointer;
+}
+
+body[filtered] .entry[checked],
+body[filtered] .entry[blocked] {
+	display: none !important;
+}
+
 @media only screen and (max-width: 1024px) {
 	#header {
-		flex-direction: column;
+		flex-wrap: wrap;
 	}
 
 	.logo {
-		margin: auto;
+		margin: 0 auto;
 	}
 
-	.search {
+	#nav {
 		order: 1;
-		max-width: 100%;
 	}
 }
 

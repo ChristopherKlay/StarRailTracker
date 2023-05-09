@@ -213,3 +213,12 @@ function filterSearch(key) {
 		}
 	}
 }
+
+function toggleFilter(el) {
+	if (el.textContent == 'Show: All') {
+		el.textContent = 'Show: Incomplete'
+	} else {
+		el.textContent = 'Show: All'
+	}
+	document.body.toggleAttribute('filtered')
+}
