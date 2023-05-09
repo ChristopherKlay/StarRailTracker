@@ -6,7 +6,8 @@ Simply visit the [live version](https://christopherklay.github.io/StarRailTracke
 
 ### Features
 - [x] Stores your progress (locally on your device) to keep it even after updates/patches.
-- [x] Allows you to quickly search based on title/description (e.g. `"Trace"`) and version (`"1"`, or `"1.5"`)
+- [x] Quickly search based on title/description (e.g. `"Trace"`) and version (`"1"`, or `"1.5"`).
+- [x] Automatic filtering of mutually exclusive achievements.
 - [x] Zero data collected, no trackers & no ads.
 
 ## Found incorrect/missing data, or encountered technical issues?
