@@ -15,12 +15,12 @@ Simply visit the [live version](https://christopherklay.github.io/StarRailTracke
 * **Data  Issue**: If you find incorrect/missing data or got other issues with the provided data, please contact Meow on Discord via `Meow#8796`.
 * **Technical Issues**: Something isn't working correctly with the tracker? Please [leave a note](https://github.com/ChristopherKlay/StarRailTracker/issues)!
 
-### Credits
-* Based on [the data](https://docs.google.com/spreadsheets/d/1zewLHLp-WnpTnIT4TdbSoUvnCtAOq0_p__ZyFsJZAEg/edit#gid=0) collected by [Meow of MeowDB.com](https://meowdb.com/)
-* Design based on the official [Honkai: Star Rail Interactive Map](https://act.hoyolab.com/sr/app/interactive-map/index.html)
-
 ## Can i contribute?
 Development of the project is currently not public. For details see the [contributing infos](https://github.com/ChristopherKlay/StarRailTracker/blob/main/.github/contributing.md).
+
+## Credits
+* Based on [the data](https://docs.google.com/spreadsheets/d/1zewLHLp-WnpTnIT4TdbSoUvnCtAOq0_p__ZyFsJZAEg/edit#gid=0) collected by [Meow of MeowDB.com](https://meowdb.com/)
+* Design based on the official [Honkai: Star Rail Interactive Map](https://act.hoyolab.com/sr/app/interactive-map/index.html)
 
 ## Support this project
 The project is provided entirely for free with no strings attached and time spend on it is covered by donations.
