@@ -1,17 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,500,300italic,500italic,700italic,900,300);
 
-body,
-html {
-	margin: 0;
-	padding: 0;
-	height: 100%;
-	width: 100%;
-}
-
 body {
 	background-image: url("https://act.hoyolab.com/sr/app/interactive-map/images/map-background.423860f9.jpg");
 	background-size: cover;
-	background-position: center;
+	background-attachment: fixed;
 	overflow: auto;
 	font-family: "Roboto", "Helvetica Neue, Helvetica, Arial";
 }
@@ -24,20 +16,26 @@ body {
 	left: 7%;
 }
 
-#header>img {
+.logo {
 	margin-left: auto;
 }
 
 .search {
-	flex-grow: 1;
+	box-sizing: border-box;
 	width: 100%;
 	max-width: 400px;
 	height: 2em;
-	font-size: 1rem;
-	line-height: 16px;
+	font-size: 1em;
 	letter-spacing: 0.002em;
-	border: 1px dashed #ccc;
 	margin: 1em 0;
+	padding: 0 0 0 0.5em;
+	border: none;
+	background: rgb(26, 29, 35);
+	color: #fff;
+}
+
+.search:focus {
+	outline: none;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -45,7 +43,7 @@ body {
 		flex-direction: column;
 	}
 
-	#header>img {
+	.logo {
 		margin: auto;
 	}
 
@@ -53,27 +51,6 @@ body {
 		order: 1;
 		max-width: 100%;
 	}
-}
-
-.header {
-	display: flex;
-	align-items: center;
-	height: 3rem;
-	padding-left: 0.8em;
-	background-color: #1a1d23;
-	font-weight: 600;
-	color: #fff;
-}
-
-.header:before {
-	content: "";
-	position: relative;
-	width: 6px;
-	height: 6px;
-	margin-right: 0.6em;
-	transform: rotate(45deg);
-	background: #f5f5f5;
-	transition: all 0.3s linear;
 }
 
 .category[collapsed]>.header:before {
@@ -119,8 +96,44 @@ body {
 	box-shadow: 0 0 0 1px black;
 }
 
-.entry[checked] {
-	opacity: 0.2;
+.entry[checked],
+.entry[blocked] {
+	opacity: 0.5;
+}
+
+.entry[blocked] {
+	background: repeating-linear-gradient(45deg,
+			rgba(26, 29, 35, 0),
+			rgba(26, 29, 35, 0) 10px,
+			rgba(26, 29, 35, 0.05) 10px,
+			rgba(26, 29, 35, 0.05) 20px)
+}
+
+.entry>img {
+	height: 1rem;
+	width: 1rem;
+	content: url("https://act.hoyolab.com/sr/app/interactive-map/images/icon-select-all-m.28a4d10b.png");
+}
+
+.header {
+	display: flex;
+	align-items: center;
+	height: 3rem;
+	padding-left: 0.8em;
+	background-color: rgb(26, 29, 35);
+	font-weight: 600;
+	color: #fff;
+}
+
+.header:before {
+	content: "";
+	position: relative;
+	width: 6px;
+	height: 6px;
+	margin-right: 0.6em;
+	transform: rotate(45deg);
+	background: #f5f5f5;
+	transition: all 0.3s linear;
 }
 
 .title {
@@ -131,12 +144,6 @@ body {
 	text-overflow: ellipsis;
 	overflow: hidden;
 	white-space: nowrap;
-}
-
-.entry>img {
-	height: 1rem;
-	width: 1rem;
-	content: url("https://act.hoyolab.com/sr/app/interactive-map/images/icon-select-all-m.28a4d10b.png");
 }
 
 .entry[checked]>img {

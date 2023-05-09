@@ -45,6 +45,9 @@ function createEntries(data) {
 			var entry = document.createElement("div");
 			entry.className = "entry";
 			entry.setAttribute("achievement", ent)
+			if (data[cat][ent].group) {
+				entry.setAttribute("group", data[cat][ent].group)
+			}
 
 			// Check if completed
 			if (storage && storage.includes(ent)) {
@@ -53,8 +56,11 @@ function createEntries(data) {
 
 			// Sync OnClick
 			entry.addEventListener("click", function () {
-				this.toggleAttribute("checked");
-				syncStorage(this.getAttribute("achievement"))
+				if (!this.hasAttribute('blocked')) {
+					this.toggleAttribute("checked");
+					updateGroups()
+					syncStorage(this.getAttribute("achievement"))
+				}
 			});
 
 			// Checkbox
@@ -101,11 +107,14 @@ function createEntries(data) {
 
 			// Append generated entry
 			section.append(entry);
-
-			// Trigger progress update
-			updateProgress()
 		}
 	}
+
+	// Filter group exclusivity
+	updateGroups()
+
+	// Trigger progress update
+	updateProgress()
 }
 
 function syncStorage(id) {
@@ -128,6 +137,32 @@ function syncStorage(id) {
 	updateProgress()
 }
 
+function updateGroups() {
+	var groupEntries = document.querySelectorAll('[group]')
+
+	// Collect checked groups
+	var blockedGroups = []
+	var excludedKeys = []
+	for (var i = 0; i < groupEntries.length; i++) {
+		if (groupEntries[i].hasAttribute('checked')) {
+			// Add group
+			blockedGroups.push(groupEntries[i].getAttribute('group'))
+			// Add excluded keys
+			excludedKeys.push(groupEntries[i].getAttribute('achievement'))
+		}
+	}
+
+	// Update group state
+	for (var i = 0; i < groupEntries.length; i++) {
+		if (blockedGroups.includes(groupEntries[i].getAttribute('group')) && !excludedKeys.includes(groupEntries[i].getAttribute('achievement'))) {
+			groupEntries[i].setAttribute('blocked', '')
+		} else {
+			groupEntries[i].removeAttribute('blocked')
+
+		}
+	}
+}
+
 function updateProgress() {
 	// Update progress counters
 	var counters = document.getElementsByClassName('progress')
@@ -136,7 +171,7 @@ function updateProgress() {
 
 		// Progress
 		var entryChecked = cat.querySelectorAll('.entry[checked]').length || 0
-		var entryTotal = cat.querySelectorAll('.entry').length
+		var entryTotal = cat.querySelectorAll('.entry:not([blocked])').length
 
 		counters[i].textContent = '(' + entryChecked + '/' + entryTotal + ')'
 	}
