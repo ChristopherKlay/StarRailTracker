@@ -4,7 +4,7 @@ Achievement Tracker for Honkai: Star Rail
 ## How to use
 Simply visit the [live version](https://christopherklay.github.io/StarRailTracker/) of the tracker, or got to `https://christopherklay.github.io/StarRailTracker/`.
 
-### Features
+## Features
 - [x] Stores your progress (locally on your device) to keep it even after updates/patches.
 - [x] Quickly search based on title/description (e.g. `"Trace"`) and version (`"1"`, or `"1.5"`).
 - [x] Automatic filtering of mutually exclusive achievements.
