@@ -20,7 +20,7 @@ Simply visit the [live version](https://christopherklay.github.io/StarRailTracke
 * Design based on the official [Honkai: Star Rail Interactive Map](https://act.hoyolab.com/sr/app/interactive-map/index.html)
 
 ## Can i contribute?
-Development of the extension is currently not public. For details see the [contributing infos](https://github.com/ChristopherKlay/StarRailTracker/blob/main/.github/contributing.md).
+Development of the project is currently not public. For details see the [contributing infos](https://github.com/ChristopherKlay/StarRailTracker/blob/main/.github/contributing.md).
 
 ## Support this project
 The project is provided entirely for free with no strings attached and time spend on it is covered by donations.
