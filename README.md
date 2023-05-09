@@ -19,5 +19,8 @@ Simply visit the [live version](https://christopherklay.github.io/StarRailTracke
 * Based on [the data](https://docs.google.com/spreadsheets/d/1zewLHLp-WnpTnIT4TdbSoUvnCtAOq0_p__ZyFsJZAEg/edit#gid=0) collected by [Meow of MeowDB.com](https://meowdb.com/)
 * Design based on the official [Honkai: Star Rail Interactive Map](https://act.hoyolab.com/sr/app/interactive-map/index.html)
 
+## Can i contribute?
+Development of the extension is currently not public. For details see the [contributing infos](https://github.com/ChristopherKlay/StarRailTracker/blob/main/.github/contributing.md).
+
 ## Support this project
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B079EUW)
