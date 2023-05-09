@@ -23,4 +23,5 @@ Simply visit the [live version](https://christopherklay.github.io/StarRailTracke
 Development of the extension is currently not public. For details see the [contributing infos](https://github.com/ChristopherKlay/StarRailTracker/blob/main/.github/contributing.md).
 
 ## Support this project
+If you want your donations to go towards pulls & would like to see the results, feel free to iclude that in the comment!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B079EUW)
