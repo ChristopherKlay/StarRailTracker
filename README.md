@@ -23,6 +23,7 @@ Simply visit the [live version](https://christopherklay.github.io/StarRailTracke
 Development of the extension is currently not public. For details see the [contributing infos](https://github.com/ChristopherKlay/StarRailTracker/blob/main/.github/contributing.md).
 
 ## Support this project
+The project is provided entirely for free with no strings attached and time spend on it is covered by donations.
 If you want your donations to go towards pulls in Honkai: Star Rail, feel free to iclude that in the comment!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B079EUW)
