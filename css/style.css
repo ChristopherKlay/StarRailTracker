@@ -1,16 +1,17 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,500,300italic,500italic,700italic,900,300);
 
 body {
-	background-image: url("https://act.hoyolab.com/sr/app/interactive-map/images/map-background.423860f9.jpg");
+	background-image: url("../media/background.jpg");
 	background-size: cover;
 	background-attachment: fixed;
 	overflow: auto;
 	font-family: "Roboto", "Helvetica Neue, Helvetica, Arial";
 }
 
+/* Header Element */
+
 #header {
 	display: flex;
-	align-items: flex-end;
 	position: relative;
 	width: 86%;
 	left: 7%;
@@ -23,7 +24,6 @@ body {
 #nav {
 	display: flex;
 	width: 100%;
-	margin-bottom: 0.5em;
 }
 
 .search {
@@ -35,8 +35,8 @@ body {
 	padding: 0 0 0 0.5em;
 	margin-right: 0.5em;
 	border: none;
-	background: rgb(26, 29, 35);
-	color: #fff;
+	border-radius: 2px;
+	background: rgba(242, 242, 242, 0.9);
 }
 
 .search:focus {
@@ -47,15 +47,14 @@ body {
 	content: 'Show: All';
 	height: 2em;
 	line-height: 2em;
-	background: rgb(26, 29, 35);
-	color: #fff;
+	background: rgba(242, 242, 242, 0.9);
+	border-radius: 2px;
 	padding: 0 0.5em;
-	font-weight: 100;
 	cursor: pointer;
 }
 
-body[filtered] .entry[checked],
-body[filtered] .entry[blocked] {
+body[filtered] entry[checked],
+body[filtered] entry[blocked] {
 	display: none !important;
 }
 
@@ -64,147 +63,152 @@ body[filtered] .entry[blocked] {
 		flex-wrap: wrap;
 	}
 
+	.search {
+		max-width: 100%;
+	}
+
 	.logo {
-		margin: 0 auto;
-	}
-
-	#nav {
-		order: 1;
+		margin: 2em auto;
 	}
 }
 
-.category[collapsed]>.header:before {
-	transform: none;
-}
+/* Content Area */
 
-.progress {
-	position: absolute;
-	right: 0.5em;
-	font-weight: 100;
-}
-
-.category {
+section {
+	display: grid;
+	grid-template-columns: none;
+	grid-gap: 6px;
 	position: relative;
 	width: 86%;
 	left: 7%;
 	margin-bottom: 2em;
-	background: #e5e5e5;
 }
 
-.category[collapsed] {
-	height: 3rem;
+section[collapsed] {
+	height: 4rem;
 	overflow: hidden;
-}
-
-.category[searchable] {
-	height: auto !important;
-}
-
-.entry {
-	display: flex;
-	align-items: center;
-	padding: 0.3em 0.5em;
-	color: rgba(18, 18, 18, 0.9);
-	cursor: pointer;
-}
-
-.category>div:not(:last-child) {
-	border-bottom: 0.01rem dashed #ccc;
-}
-
-.entry:hover {
-	box-shadow: 0 0 0 1px black;
-}
-
-.entry[checked],
-.entry[blocked] {
 	opacity: 0.5;
 }
 
-.entry[blocked] {
-	background: repeating-linear-gradient(45deg,
-			rgba(26, 29, 35, 0),
-			rgba(26, 29, 35, 0) 10px,
-			rgba(26, 29, 35, 0.05) 10px,
-			rgba(26, 29, 35, 0.05) 20px)
+section[searchable] {
+	height: auto;
+	opacity: 1;
 }
 
-.entry>img {
-	height: 1rem;
-	width: 1rem;
-	content: url("https://act.hoyolab.com/sr/app/interactive-map/images/icon-select-all-m.28a4d10b.png");
+@media only screen and (min-width: 1024px) {
+	.category {
+		grid-template-columns: 50%;
+	}
 }
 
-.header {
+@media only screen and (min-width: 1680px) {
+	.category {
+		grid-template-columns: 33.33% 33.33%;
+	}
+}
+
+/* Entry Content */
+
+topbar {
 	display: flex;
-	align-items: center;
-	height: 3rem;
-	padding-left: 0.8em;
-	background-color: rgb(26, 29, 35);
-	font-weight: 600;
+	flex-direction: column;
+	justify-content: center;
+	grid-column-start: 1;
+	grid-column-end: none;
+	height: 4rem;
+	font-size: 1.6em;
 	color: #fff;
 }
 
-.header:before {
-	content: "";
+topbar:after {
+	content: '';
 	position: relative;
-	width: 6px;
-	height: 6px;
-	margin-right: 0.6em;
-	transform: rotate(45deg);
-	background: #f5f5f5;
-	transition: all 0.3s linear;
+	width: 100%;
+	margin: 10px 0;
+	border-bottom: 1px solid white;
+}
+
+.progress {
+	font-size: 0.8em;
+	color: rgba(225, 200, 140);
+}
+
+.progress:before {
+	content: "Achievement Progress ";
+}
+
+entry {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 8px 12px;
+	background: rgba(242, 242, 242, 0.9);
+	border-radius: 2px 10px 2px 2px;
+	box-shadow: inset 0 0 0 1px rgba(242, 242, 242, 0.5),
+		inset 0 0 0 3px rgba(205, 185, 155, 0.95);
+	cursor: pointer;
+}
+
+entry[checked],
+entry[blocked] {
+	opacity: 0.5;
+}
+
+entry[blocked] {
+	filter: grayscale(100%);
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+	margin-right: auto;
 }
 
 .title {
-	flex: 0 0 20%;
 	font-weight: 600;
-	margin-left: 0.3em;
-	width: 20%;
-	text-overflow: ellipsis;
-	overflow: hidden;
-	white-space: nowrap;
-}
-
-.entry[checked]>img {
-	content: url("https://act.hoyolab.com/sr/app/interactive-map/images/icon-checked.8b7873c9.png");
+	color: #000;
 }
 
 .description {
-	flex-grow: 1;
-	padding: 0.2em 0.5em;
+	color: rgb(120, 120, 120);
 }
 
 .comment {
-	font-size: 0.8em;
-	margin-top: 5px;
-	color: rgba(18, 18, 18, 0.56);
+	color: rgba(140, 150, 170);
 }
 
 .comment[bugged] {
-	color: rgb(219 145 145);
-}
-
-.jades {
-	display: flex;
-	margin-right: 0.5em;
-	align-items: center;
-}
-
-.jades:after {
-	content: '';
-	width: 1.5rem;
-	height: 1.5rem;
-	background: url('../media/jade.png');
-	background-size: contain;
+	color: rgba(190, 100, 100);
 }
 
 .version {
-	padding: 0.1rem;
-	background-color: rgba(255, 255, 255, 0.75);
-	border-radius: 0.12rem;
-	color: rgba(18, 18, 18, 0.56);
+	padding: 0.2em 0;
+	font-size: 0.75rem;
+	margin-left: 12px;
+	color: rgb(120, 120, 120);
+	writing-mode: vertical-lr;
+	transform: rotate(-180deg);
+}
+
+.jades {
+	position: relative;
+	flex-shrink: 0;
+	width: 60px;
+	height: 60px;
+	border-top-right-radius: 8px;
+	background: url("../media/jade.png"),
+		linear-gradient(180deg, rgba(135, 90, 87, 1) 0%, rgba(196, 159, 114, 1) 100%);
+	background-repeat: no-repeat;
+	background-size: 75%, cover;
+	background-position: center;
+}
+
+.jades>span {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
 	font-size: 0.8rem;
-	line-height: 16px;
-	letter-spacing: 0.002em;
+	color: #fff;
+	text-align: center;
+	background: rgba(0, 0, 0, 0.5);
 }

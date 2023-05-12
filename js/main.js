@@ -26,15 +26,14 @@ function createEntries(data) {
 		document.body.append(section);
 
 		// Section Header
-		var header = document.createElement("header")
-		header.className = "header"
+		var header = document.createElement("topbar")
 		header.textContent = cat
 		header.addEventListener("click", function () {
 			this.parentElement.toggleAttribute("collapsed")
 		});
 
 		// -> Progress
-		var progress = document.createElement('div')
+		var progress = document.createElement('span')
 		progress.className = 'progress'
 		header.append(progress)
 		section.append(header)
@@ -42,8 +41,7 @@ function createEntries(data) {
 		// Create entries
 		for (var ent in data[cat]) {
 			// Create entry
-			var entry = document.createElement("div");
-			entry.className = "entry";
+			var entry = document.createElement("entry");
 			entry.setAttribute("achievement", ent)
 			if (data[cat][ent].group) {
 				entry.setAttribute("group", data[cat][ent].group)
@@ -63,23 +61,24 @@ function createEntries(data) {
 				}
 			});
 
-			// Checkbox
-			var check = document.createElement("img");
-			entry.append(check);
+			// Add content frame
+			var frame = document.createElement('div')
+			frame.className = 'content'
+			entry.append(frame)
 
 			// Title
 			var title = document.createElement("div");
 			title.className = "title";
-			title.title = data[cat][ent].title;
 			title.textContent = data[cat][ent].title;
-			entry.append(title);
+			frame.append(title);
 
 			// Description
 			var description = document.createElement("div");
 			description.className = "description";
 			description.textContent = data[cat][ent].description
+			frame.append(description);
 
-			// -> Comment
+			// Comment
 			if (data[cat][ent].comment) {
 				var comment = document.createElement('div')
 				comment.className = "comment"
@@ -87,16 +86,8 @@ function createEntries(data) {
 				if (data[cat][ent].bugged) {
 					comment.setAttribute('bugged', '')
 				}
-				description.append(comment)
+				frame.append(comment)
 			}
-
-			entry.append(description);
-
-			// Jade Reward
-			var jades = document.createElement('div')
-			jades.className = 'jades'
-			jades.textContent = data[cat][ent].jades || '??'
-			entry.append(jades)
 
 			// Version
 			var version = document.createElement("div");
@@ -104,6 +95,15 @@ function createEntries(data) {
 			version.title = "Available since Version " + data[cat][ent].version.toFixed(1)
 			version.textContent = data[cat][ent].version.toFixed(1);
 			entry.append(version);
+
+			// Jade Reward
+			var jades = document.createElement('div')
+			jades.className = 'jades'
+			entry.append(jades)
+
+			var jadesLabel = document.createElement('span')
+			jadesLabel.textContent = data[cat][ent].jades || '??'
+			jades.append(jadesLabel)
 
 			// Append generated entry
 			section.append(entry);
@@ -170,16 +170,16 @@ function updateProgress() {
 		var cat = counters[i].parentElement.parentElement
 
 		// Progress
-		var entryChecked = cat.querySelectorAll('.entry[checked]').length || 0
-		var entryTotal = cat.querySelectorAll('.entry:not([blocked])').length
+		var entryChecked = cat.querySelectorAll('entry[checked]').length || 0
+		var entryTotal = cat.querySelectorAll('entry:not([blocked])').length
 
-		counters[i].textContent = '(' + entryChecked + '/' + entryTotal + ')'
+		counters[i].textContent = entryChecked + '/' + entryTotal
 	}
 }
 
 function filterSearch(key) {
-	var entryList = document.getElementsByClassName('entry')
-	var catList = document.getElementsByClassName('category')
+	var entryList = document.getElementsByTagName('entry')
+	var catList = document.getElementsByTagName('section')
 
 	if (key.value != '') {
 		for (var i = 0; i < entryList.length; i++) {
@@ -187,10 +187,10 @@ function filterSearch(key) {
 			if (isNaN(key.value)) {
 				// Check by title/description
 				var checkKey = key.value.toLowerCase()
-				var checkData = entryList[i].getElementsByClassName('title')[0].textContent.toLowerCase() +
-					entryList[i].getElementsByClassName('description')[0].textContent.toLowerCase()
+				var checkData = entryList[i].getElementsByClassName('content')[0].textContent.toLowerCase()
 			} else {
 				// Check by version
+				checkKey = parseFloat(key.value)
 				checkData = entryList[i].getElementsByClassName('version')[0].textContent
 			}
 
