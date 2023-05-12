@@ -15,6 +15,8 @@ Simply visit the [live version](https://christopherklay.github.io/StarRailTracke
 - [x] Automatic filtering of mutually exclusive achievements.
 - [x] Zero data collected, no trackers & no ads.
 
+View the full changelog [here](https://github.com/ChristopherKlay/StarRailTracker/blob/main/changelog.md).
+
 ## Found incorrect/missing data, or encountered technical issues?
 
 * **Data  Issue**: If you find incorrect/missing data or got other issues with the provided data, please contact Meow on Discord via `Meow#8796`.
