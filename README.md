@@ -1,4 +1,9 @@
 # StarRailTracker
+
+<p align="center">
+  <img src="https://github.com/ChristopherKlay/StarRailTracker/blob/main/media/logo.png?raw=true"/>
+</p>
+
 Achievement Tracker for Honkai: Star Rail
 
 ## How to use
