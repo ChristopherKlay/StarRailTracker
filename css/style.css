@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,500,300italic,500italic,700italic,900,300);
 
 body {
-	background-image: url("../media/background.jpg");
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url("../media/background.jpg");
 	background-size: cover;
 	background-attachment: fixed;
 	overflow: auto;
@@ -129,12 +129,10 @@ topbar:after {
 }
 
 .progress {
+	display: flex;
+	justify-content: space-between;
 	font-size: 0.8em;
 	color: rgba(225, 200, 140);
-}
-
-.progress:before {
-	content: "Achievement Progress ";
 }
 
 entry {

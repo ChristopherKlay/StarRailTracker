@@ -30,13 +30,24 @@ function createEntries(data) {
 		header.textContent = cat
 		header.addEventListener("click", function () {
 			this.parentElement.toggleAttribute("collapsed")
-		});
+		})
+		section.append(header)
 
 		// -> Progress
-		var progress = document.createElement('span')
+		var progress = document.createElement('div')
 		progress.className = 'progress'
 		header.append(progress)
-		section.append(header)
+
+		// ->> Jade Count
+		var checkcount = document.createElement('span')
+		checkcount.className = 'checkcount'
+		progress.append(checkcount)
+
+
+		// ->> Jade Count
+		var jadecount = document.createElement('span')
+		jadecount.className = 'jadecount'
+		progress.append(jadecount)
 
 		// Create entries
 		for (var ent in data[cat]) {
@@ -165,15 +176,22 @@ function updateGroups() {
 
 function updateProgress() {
 	// Update progress counters
-	var counters = document.getElementsByClassName('progress')
-	for (var i = 0; i < counters.length; i++) {
-		var cat = counters[i].parentElement.parentElement
+	var cat = document.getElementsByTagName('section')
+	for (var i = 0; i < cat.length; i++) {
 
 		// Progress
-		var entryChecked = cat.querySelectorAll('entry[checked]').length || 0
-		var entryTotal = cat.querySelectorAll('entry:not([blocked])').length
+		var entryChecked = cat[i].querySelectorAll('entry[checked]').length || 0
+		var entryTotal = cat[i].querySelectorAll('entry:not([blocked])').length
 
-		counters[i].textContent = entryChecked + '/' + entryTotal
+		// Jades
+		var jadeCount = 0
+		var entryList = cat[i].querySelectorAll('entry[checked] .jades>span')
+		for (var j = 0; j < entryList.length; j++) {
+			jadeCount += parseInt(entryList[j].textContent)
+		}
+
+		cat[i].querySelector('.checkcount').textContent = 'Achievement Progress ' + entryChecked + '/' + entryTotal
+		cat[i].querySelector('.jadecount').textContent = jadeCount + ' Jades Obtained'
 	}
 }
 
