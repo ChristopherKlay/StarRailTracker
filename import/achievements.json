@@ -847,6 +847,20 @@
             "description": "Remove debuffs from allies 5 time(s) in a single battle",
             "comment": "Can be done by March 7th, Natasha, or blessings in Simulated Universe.",
             "jades": 5
+        },
+        "76fbfb8fd13289c4a9b5952dbb19c253567bf28f": {
+            "title": "This Fragile Body",
+            "version": 1.1,
+            "description": "Use Silver Wolf to apply different Type Weaknesses for a total of 1 time(s) to a single enemy in a single battle",
+            "comment": "You can borrow a relevant unit from a friend for this achievement.",
+            "jades": 10
+        },
+        "991be5c46fc4f20965abcb47f3fe19f2e6e49f50": {
+            "title": "When the Hunter Becomes the Hunted",
+            "version": 1.1,
+            "description": "Use Silver Wolf to fight enemy Kafka and apply 1 Weaknesse(s) to her in a single battle",
+            "comment": "You can borrow a relevant unit from a friend for this achievement.",
+            "jades": 5
         }
     },
     "Vestige of Luminflux": {
@@ -915,6 +929,18 @@
             "version": 1.0,
             "description": "Obtain 100,000,000 credits in total",
             "jades": 10
+        },
+        "fcb1ca11059f9f8831f4edfb4ff54a7945599e3e": {
+            "title": "Texting Enjoyer",
+            "version": 1.1,
+            "description": "Reply to 10 idle chat texts from other characters",
+            "jades": 5
+        },
+        "36e287771acebe067460a4d3d4c36abaef718772": {
+            "title": "That Friendship Has Sailed",
+            "version": 1.1,
+            "description": "Reply to 60 idle chat texts from other characters",
+            "jades": 5
         }
     },
     "Universe in a Nutshell": {
@@ -1580,6 +1606,18 @@
             "description": "Choose gender-specific dialogue options 3 time(s)",
             "comment": "Only dialogue during a mission counts.",
             "jades": 5
+        },
+        "5868b9af5939938131f446332d1159d8fc2adaba": {
+            "title": "Life in All Its Forms",
+            "version": 1.1,
+            "description": "Trigger 10 different HP restoration voice lines with Luocha's healing",
+            "jades": 5
+        },
+        "7b0ba8800a6a4a6adef08dae1a98e459738e3ce7": {
+            "title": "Star Saga of the Shattered Sword",
+            "version": 1.1,
+            "description": "Win 1 battle(s) with a team comprising Luocha, Sushang, and Yanqing",
+            "jades": 5
         }
     },
     "The Memories We Share": {
@@ -2057,6 +2095,63 @@
             "description": "Complete the challenge from the \"Four Great Villains of the Luofu (Self-Proclaimed)\"",
             "comment": "Located east of Realm-Keeping Commission Chancery in Exalting Sanctum, with two kids.",
             "jades": 5
+        },
+        "1c21dcb51cc41b9b9e6844d131968baea7a332a3": {
+            "title": "Where Can A Wanderer Rest?",
+            "group": "9b96f3793f542db7f37a65a0336daca5e7f25e58",
+            "version": 1.1,
+            "description": "Let Liangmu know the identity of the mara-struck monster in the mission \"Evanesce Like the Morning Dew\"",
+            "jades": 5
+        },
+        "7001d52ddf99d4a4a4ca5d09da44f5e0656d8659": {
+            "title": "For Old Times' Sake",
+            "group": "9b96f3793f542db7f37a65a0336daca5e7f25e58",
+            "version": 1.1,
+            "description": "Hide the identity of the mara-struck monster from Liangmu in the mission \"Evanesce Like the Morning Dew\"",
+            "jades": 5
+        },
+        "919bb6d4dec50a45c05bcaea34280e44cc70e8de": {
+            "title": "Coffin Dancer",
+            "version": 1.1,
+            "description": "Witness Luocha's hidden side.",
+            "comment": "Check the restored recording and listen to Luocha's monologue.",
+            "jades": 5
+        },
+        "45209a74030abd80980d559a66a5adb04f552333": {
+            "title": "Free For Today",
+            "version": 1.1,
+            "description": "Open up the general exhibition area of the Belobog History and Culture Museum",
+            "jades": 5
+        },
+        "d7a4e06b09d3ced4686439a326a73ee95c985150": {
+            "title": "Catch Me If You Can",
+            "version": 1.1,
+            "description": "Open up three exhibition areas in the Belobog History and Culture Museum",
+            "jades": 5
+        },
+        "7de53057af38d666e2cb7e4a4845332a909dc004": {
+            "title": "You Should Stay in the Museum!",
+            "version": 1.1,
+            "description": "Collect all display items for the Belobog History and Culture Museum",
+            "jades": 10
+        },
+        "7646a921cb36e7a47b2bb2db663781cc9b261ae0": {
+            "title": "A Perfect Detective",
+            "version": 1.1,
+            "description": "Complete the Companion Mission \"A Knight Stranger\"",
+            "jades": 5
+        },
+        "54fdd2cd8fe982b5f9eaf885cfb356870f0efa45": {
+            "title": "Master Among Swords",
+            "version": 1.1,
+            "description": "Complete the Companion Mission \"Frosty Blade's Trial\"",
+            "jades": 5
+        },
+        "16f65a5d10cd05fd36360b68947dcfbb9ec666ed": {
+            "title": "Farewell, Punklorde!",
+            "version": 1.1,
+            "description": "Complete the Companion Mission \"Punklorde Mentality\"",
+            "jades": 5
         }
     },
     "Fathom the Unfathomable": {
@@ -2265,6 +2360,12 @@
             "version": 1.0,
             "description": "Collect all Memory Bubbles scattered on the Herta Space Station",
             "comment": "There are 20 memory bubbles.",
+            "jades": 5
+        },
+        "dc64344925374fc7802352a0caf888bf611533ee": {
+            "title": "Walk Into The Trap",
+            "version": 1.1,
+            "description": "Capture Lost Trotters 1 time(s) in battle",
             "jades": 5
         }
     }
