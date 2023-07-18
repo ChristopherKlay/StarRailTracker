@@ -225,6 +225,27 @@
             "description": "Make Belobog Great Again, Again",
             "comment": "Defeat Supreme Guardian Cocolia.",
             "jades": 20
+        },
+        "4ecbdc5ebfcec056812af69c814deea55f58aec1": {
+            "title": "Svah Sanishyu",
+            "version": 1.2,
+            "description": "If they come back to life, then just kill them again...",
+            "comment": "Defeat the Master of the Disciples of Sanctus Medicus",
+            "jades": 10
+        },
+        "be1c9c58735b141da8d5ea5e7cf95919bc0c07df": {
+            "title": "The Imbibitor Lunae Arrives",
+            "version": 1.2,
+            "description": "Sea's Depths Conceal No Stone, Dragon's Breaths Reveal the Moon.",
+            "comment": "Witness Dan Heng part the waters in Scalegorge Waterscape",
+            "jades": 10
+        },
+        "f388b0d41265c6d85756f12ceda38410d45f4d30": {
+            "title": "The Arbor Snaps",
+            "version": 1.2,
+            "description": "All plots shall be overturned",
+            "comment": "Help Jing Yuan to defeat Phantylia",
+            "jades": 20
         }
     },
     "Eager for Battle": {
@@ -861,6 +882,49 @@
             "description": "Use Silver Wolf to fight enemy Kafka and apply 1 Weaknesse(s) to her in a single battle",
             "comment": "You can borrow a relevant unit from a friend for this achievement.",
             "jades": 5
+        },
+        "197f7a473a70750a66670326517cf922553fb5af": {
+            "title": "Sickly Complexion",
+            "version": 1.2,
+            "description": "Dispel the Prana-Siphon state for a total of 5 times during a single battle against Phantylia",
+            "jades": 5
+        },
+        "cbfafffedbc916d3e517360213611760e685ab6c": {
+            "title": "Horticulturalist",
+            "version": 1.2,
+            "description": "Defeat Phantylia without defeating any Abundance Lotuses",
+            "jades": 10
+        },
+        "8713bad82d3517bed724cab0bcf2b146c77688b4": {
+            "title": "BOOM",
+            "version": 1.2,
+            "description": "In a single battle, trigger 4 different DoT effects with 1 use of Kafka's Skill \"Caressing Moonligh\"",
+            "jades": 5
+        },
+        "52937cd423bba7ad34848a6fb764972f6e47723c": {
+            "title": "Unfulfilled Wish",
+            "version": 1.2,
+            "description": "\"Unnecessary.\"",
+            "comment": "In a single battle, use the character Blade to restore his HP from less than or equal to 5% to greater than or equal to 30% in one single action for 2 time(s)",
+            "jades": 5
+        },
+        "8c238c0bdc3142b0181c3588d1853a479817beb8": {
+            "title": "Go, Bladie",
+            "version": 1.2,
+            "description": "Use ally Blade in combat against boss Kafka and be Dominated by her",
+            "jades": 5
+        },
+        "8a827da7754ef47deee1ad449458e50c1f827e1c": {
+            "title": "Win by Decision",
+            "version": 1.2,
+            "description": "In a single battle, use Luka's \"Sky-Shatter Fist\" for a total of 4 time(s)",
+            "jades": 5
+        },
+        "2c6fbbeca1c421bdd3f12210012b78669c1c8d38": {
+            "title": "Self-Hypnosis",
+            "version": 1.2,
+            "description": "Use ally Kafka in combat against boss Kafka and be Dominated by her",
+            "jades": 5
         }
     },
     "Vestige of Luminflux": {
@@ -1369,6 +1433,12 @@
             "version": 1.0,
             "description": "Defeat Stagnant Shadow 800 time(s)",
             "jades": 10
+        },
+        "56e50fd9c2fa4870079e8b66db2603acb791846a": {
+            "title": "Voyage to the Ends of the Sky",
+            "version": 1.2,
+            "description": "Clear Forgotten Hall: Memories of Xianzhou Stage 6",
+            "jades": 10
         }
     },
     "Moment of Joy": {
@@ -1617,6 +1687,12 @@
             "title": "Star Saga of the Shattered Sword",
             "version": 1.1,
             "description": "Win 1 battle(s) with a team comprising Luocha, Sushang, and Yanqing",
+            "jades": 5
+        },
+        "fb39b56be36c4aee2662d492f252e5efc42bf4ae": {
+            "title": "Guardian of the Underworld",
+            "version": 1.2,
+            "description": "Win 1 battle with a team comprising Natasha, Seele, and Luka",
             "jades": 5
         }
     },
@@ -2152,6 +2228,76 @@
             "version": 1.1,
             "description": "Complete the Companion Mission \"Punklorde Mentality\"",
             "jades": 5
+        },
+        "ff7efd38559d9fa52656b4a177a50918fc48d163": {
+            "title": "The Willing Does Not Bite",
+            "version": 1.2,
+            "description": "Uncover the connection between the two anglers from the Artisanship Commission",
+            "jades": 5
+        },
+        "6e8dba8c0e8f7e0119996ebfbc7cf9a8ec429183": {
+            "title": "How I Learned to Stop Worrying",
+            "version": 1.2,
+            "description": "Successfully resolve the neutron bomb crisis",
+            "jades": 5
+        },
+        "b62d8fef35323de85d0189b402403dba4c177a91": {
+            "title": "Lunarescent Rim",
+            "version": 1.2,
+            "description": "Participate 1 time in the Aurumaton Driving Exam",
+            "jades": 5
+        },
+        "5376d373f91e82e7abc83943b6748bb823ab4175": {
+            "title": "Wordsmith",
+            "version": 1.2,
+            "description": "Have your literary talent recognized by the Metrical Poet",
+            "jades": 5
+        },
+        "cfc8114840eee75a5436f4c806cff99e152629a8": {
+            "title": "Literary Novice",
+            "version": 1.2,
+            "description": "Fail to have your literary talent recognized by the Metrical Poet",
+            "jades": 5
+        },
+        "e1b3fa6aa3de7babf1c7fcc1e700e7c97796b4c0": {
+            "title": "Soaring Birds and Paper Kites",
+            "version": 1.2,
+            "description": "Complete the Companion Mission \"For I Have Touched the Sky\"",
+            "jades": 5
+        },
+        "27bea366d2b920a6f591b373da907d3a32306f9d": {
+            "title": "Free Will",
+            "group": "f2b5afd629108aeed3de4f80f5e884b68d7aca9d",
+            "version": 1.2,
+            "description": "Complete the Companion Mission \"Letter from a Strange Woman\"",
+            "comment": "You chose to help Kafka",
+            "jades": 5
+        },
+        "555eaa8e7f059b8e32af7228d39deb95c72d8cec": {
+            "title": "Ends Above the Means",
+            "version": 1.2,
+            "description": "Complete 1 successful release with the Unshackled",
+            "jades": 5
+        },
+        "0cc0cfbd77e0011e9beb534c657f691ab640fd87": {
+            "title": "Means Above the Ends",
+            "version": 1.2,
+            "description": "Witness the end of the Unshackled",
+            "jades": 5
+        },
+        "896ae756d862a588beae40a1ec5d925170112e14": {
+            "title": "Friend of the Cloud Knights",
+            "version": 1.2,
+            "description": "Fulfill the General's orders without distractions",
+            "jades": 10
+        },
+        "6ed8cb6cea9debfa4c6000fe5a20b527f27018c9": {
+            "title": "True Free Will",
+            "group": "f2b5afd629108aeed3de4f80f5e884b68d7aca9d",
+            "version": 1.2,
+            "description": "Complete the Companion Mission \"Letter from a Strange Woman\"",
+            "comment": "You chose to leave Kafka. Not many people would, but this is how you proved your free will",
+            "jades": 5
         }
     },
     "Fathom the Unfathomable": {
@@ -2367,6 +2513,48 @@
             "version": 1.1,
             "description": "Capture Lost Trotters 1 time(s) in battle",
             "jades": 5
+        },
+        "e481b4fb494acfa8a38135711d2175730fb1011f": {
+            "title": "I Was Here Flying: Meridian Pin",
+            "version": 1.2,
+            "description": "Fly a cycrane to the vicinity of the Meridian Pin",
+            "jades": 5
+        },
+        "1e6b7bc51fcbeba4e82965cff41da202b1af41b1": {
+            "title": "I Was Here Flying: Matrix of Prescience",
+            "version": 1.2,
+            "description": "Fly a cycrane to the middle of the Matrix of Prescience",
+            "jades": 5
+        },
+        "774fe147f3388f12c12dc391e21e81a409a138da": {
+            "title": "I Was Here Flying: Aureate Elixir Furnace",
+            "version": 1.2,
+            "description": "Fly a cycrane to the vicinity of the Aureate Elixir Furnace",
+            "jades": 5
+        },
+        "ddc285bd11381e42d4d406ff34bc9f7d7fed68fb": {
+            "title": "Take It Easy, Icarus",
+            "version": 1.2,
+            "description": "Fly a cycrane to test the limits of its remote control range",
+            "jades": 5
+        },
+        "882dcff45e91373812fd9c50a4cc2f14114dcdba": {
+            "title": "Unboxing Assessment",
+            "version": 1.2,
+            "description": "There is no delivery package inspector more reliable than you",
+            "jades": 5
+        },
+        "5c94b3d41bc57917afb55b48cf4e1b3818ea03c3": {
+            "title": "Travels Afar",
+            "version": 1.2,
+            "description": "Activate Space Anchors 20 times on the Xianzhou Luofu",
+            "jades": 5
+        },
+        "08c2902b143182609dc6899236532f5892cec16c": {
+            "title": "The Star of Wealth Shines Upon You",
+            "version": 1.2,
+            "description": "Open Treasures 170 times on the Xianzhou Luofu",
+            "jades": 10
         }
     }
 }
