@@ -149,13 +149,6 @@
             "comment": "Find Qingque, who is \"working hard\" at playing games.",
             "jades": 10
         },
-        "d57840b5b522bafe5a5179bd83a0e572687e62ce": {
-            "title": "Draconic Opulence",
-            "version": 1.0,
-            "description": "Witness Dan Shu's story",
-            "comment": "Discover Dan Shu's true identity.",
-            "jades": 10
-        },
         "f45d17d850b6da3c4e7be59abfe483c4ed261906": {
             "title": "Everwinter Night",
             "version": 1.0,
@@ -811,7 +804,7 @@
             "jades": 5
         },
         "eead269a86d7fcd18985bb883efc08677914951a": {
-            "title": "Trial of Thirteen",
+            "title": "The Thirteen Labors",
             "version": 1.0,
             "description": "In a single battle, make Svarog block attacks toward Clara 13 times",
             "comment": "It might be exactly 13 times on the dot.",
@@ -2249,12 +2242,14 @@
         },
         "5376d373f91e82e7abc83943b6748bb823ab4175": {
             "title": "Wordsmith",
+            "group": "b696165abb963ec4b4060cb133df68ef37314b39",
             "version": 1.2,
             "description": "Have your literary talent recognized by the Metrical Poet",
             "jades": 5
         },
         "cfc8114840eee75a5436f4c806cff99e152629a8": {
             "title": "Literary Novice",
+            "group": "b696165abb963ec4b4060cb133df68ef37314b39",
             "version": 1.2,
             "description": "Fail to have your literary talent recognized by the Metrical Poet",
             "jades": 5
@@ -2298,6 +2293,13 @@
             "description": "Complete the Companion Mission \"Letter from a Strange Woman\"",
             "comment": "You chose to leave Kafka. Not many people would, but this is how you proved your free will",
             "jades": 5
+        },
+        "d57840b5b522bafe5a5179bd83a0e572687e62ce": {
+            "title": "Draconic Opulence",
+            "version": 1.0,
+            "description": "Witness Dan Shu's story",
+            "comment": "Discover Dan Shu's true identity.",
+            "jades": 10
         }
     },
     "Fathom the Unfathomable": {
