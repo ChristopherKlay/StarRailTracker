@@ -747,7 +747,7 @@
             "title": "Serval's Parting Gift",
             "version": 1.0,
             "description": "Use Serval to deal the final blow in a victory against boss Cocolia",
-            "comment": "Can be found in Simulated Universe World 6 or Echo of War. With fast hands, you can reset the game and retry the battle if some other unit defeats Cocolia.",
+            "comment": "Can be found in Simulated Universe World 6. With fast hands, you can reset the game and retry the battle if some other unit defeats Cocolia.",
             "jades": 10
         },
         "0c4d1af9e5e3b0cef759ceb1857f8be60b4fe89f": {
@@ -807,7 +807,6 @@
             "title": "The Thirteen Labors",
             "version": 1.0,
             "description": "In a single battle, make Svarog block attacks toward Clara 13 times",
-            "comment": "It might be exactly 13 times on the dot.",
             "jades": 10
         },
         "341c011514cd54ff0594ff50c4fcff3ef3a35c4c": {
@@ -2282,6 +2281,7 @@
         },
         "896ae756d862a588beae40a1ec5d925170112e14": {
             "title": "Friend of the Cloud Knights",
+            "group": "b09f5fee08bb534f96a3c75cd9af8d0f15a42923",
             "version": 1.2,
             "description": "Fulfill the General's orders without distractions",
             "jades": 10
@@ -2296,6 +2296,7 @@
         },
         "d57840b5b522bafe5a5179bd83a0e572687e62ce": {
             "title": "Draconic Opulence",
+            "group": "b09f5fee08bb534f96a3c75cd9af8d0f15a42923",
             "version": 1.0,
             "description": "Witness Dan Shu's story",
             "comment": "Discover Dan Shu's true identity.",
