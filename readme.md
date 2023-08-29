@@ -6,6 +6,15 @@
 
 Achievement Tracker for Honkai: Star Rail
 
+## End of Service Notice
+The author of the initial dataset [Meow of MeowDB.com](https://meowdb.com/) created a way more refined version of this project over the last couple of months;
+
+[StarDB.GG](https://stardb.gg/)
+
+Since having multiple different (and less refined) alternatives isn't helping anybody, i decided to stop development of StarRailTracker. Meow simply has more passion and time flowing into a better alternative with more features, that will be further refined in the future. This project will stay accessible, but it's content won't be updated further.
+
+Please support StarDB.GG on it's journey!
+
 ## How to use
 Simply visit the [live version](https://christopherklay.github.io/StarRailTracker/) of the tracker, or got to `https://christopherklay.github.io/StarRailTracker/`.
 
